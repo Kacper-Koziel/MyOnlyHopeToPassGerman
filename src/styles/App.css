@@ -1,0 +1,202 @@
+.app-container {
+    width: 100%;
+}
+
+.game-container {
+    text-align: center;
+}
+
+.word-display {
+    font-size: 2.5rem;
+    font-weight: 700;
+    margin-bottom: 2rem;
+    color: var(--text-primary);
+}
+
+.input-area {
+    margin-bottom: 2rem;
+}
+
+.special-chars {
+    display: flex;
+    gap: 0.5rem;
+    justify-content: center;
+    margin-top: 1rem;
+}
+
+.special-chars button {
+    padding: 0.5rem 1rem;
+    background: rgba(255, 255, 255, 0.05);
+    border: 1px solid var(--border-color);
+    color: var(--text-primary);
+}
+
+.special-chars button:hover {
+    background: var(--accent-hover);
+    color: #000;
+}
+
+.feedback {
+    height: 2rem;
+    margin-top: 1rem;
+    font-weight: bold;
+}
+
+.list-container {
+    max-height: 70vh;
+    overflow-y: auto;
+    margin-top: 1rem;
+}
+
+.list-item {
+    display: flex;
+    gap: 1rem;
+    padding: 1rem;
+    background: rgba(255, 255, 255, 0.03);
+    margin-bottom: 0.5rem;
+    border-radius: 8px;
+    align-items: center;
+    border: 1px solid var(--border-color);
+}
+
+.list-item input {
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid var(--border-color);
+    padding: 0.25rem;
+    color: var(--text-primary);
+}
+
+.list-item input:focus {
+    border-color: var(--accent-color);
+}
+
+.action-btn {
+    padding: 0.25rem 0.5rem;
+    font-size: 0.8rem;
+    background: var(--card-bg);
+    border: 1px solid var(--border-color);
+    color: var(--text-primary);
+}
+
+.big-btn {
+    padding: 1rem 3rem;
+    font-size: 1.2rem;
+    border-radius: 8px;
+    width: 100%;
+    margin-bottom: 0.5rem;
+}
+
+.flashcard-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 60vh;
+    width: 100%;
+    position: relative;
+}
+
+.scene {
+    width: 300px;
+    height: 400px;
+    perspective: 600px;
+    margin: 2rem 0;
+}
+
+.card-3d {
+    width: 100%;
+    height: 100%;
+    transition: transform 0.6s;
+    transform-style: preserve-3d;
+    cursor: pointer;
+    position: relative;
+}
+
+.card-3d.is-flipped {
+    transform: rotateY(180deg);
+}
+
+.card__face {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    border-radius: 16px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem;
+    box-sizing: border-box;
+    background: var(--card-bg);
+    border: 1px solid var(--border-color);
+    box-shadow: none;
+}
+
+.card__face--back {
+    background: var(--text-primary);
+    color: var(--bg-color);
+    transform: rotateY(180deg);
+    border-color: var(--text-primary);
+}
+
+.card-text {
+    font-size: 2rem;
+    font-weight: bold;
+    text-align: center;
+}
+
+.card-label {
+    position: absolute;
+    top: 1rem;
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    opacity: 0.7;
+}
+
+.instruction-hint {
+    position: absolute;
+    bottom: 2rem;
+    font-size: 0.8rem;
+    opacity: 0.5;
+}
+
+.controls {
+    margin-top: 1rem;
+}
+
+.feedback-box {
+    padding: 1rem;
+    border-radius: 8px;
+    margin-top: 1rem;
+    animation: popUp 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    font-weight: 500;
+    text-align: center;
+    border: 1px solid transparent;
+}
+
+.feedback-box.correct {
+    border-color: var(--success-color);
+    color: var(--success-color);
+    background: rgba(34, 197, 94, 0.05);
+}
+
+.feedback-box.incorrect {
+    border-color: var(--error-color);
+    color: var(--error-color);
+    background: rgba(239, 68, 68, 0.05);
+}
+
+@keyframes popUp {
+    from {
+        transform: scale(0.8);
+        opacity: 0;
+    }
+
+    to {
+        transform: scale(1);
+        opacity: 1;
+    }
+}

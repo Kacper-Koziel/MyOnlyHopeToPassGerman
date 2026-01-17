@@ -1,0 +1,1962 @@
+[
+  {
+    "id": 1,
+    "pl": "zachmurzony",
+    "de": "bewölkt",
+    "page": "STRONA 11",
+    "chapter": "Kapitel 1 – Erinnerungen",
+    "lesson": "Lektion 1 – Das Wetter"
+  },
+  {
+    "id": 2,
+    "pl": "gorąco",
+    "de": "heiß",
+    "page": "STRONA 11",
+    "chapter": "Kapitel 1 – Erinnerungen",
+    "lesson": "Lektion 1 – Das Wetter"
+  },
+  {
+    "id": 3,
+    "pl": "zimno",
+    "de": "kalt",
+    "page": "STRONA 11",
+    "chapter": "Kapitel 1 – Erinnerungen",
+    "lesson": "Lektion 1 – Das Wetter"
+  },
+  {
+    "id": 4,
+    "pl": "mgliście",
+    "de": "neblig",
+    "page": "STRONA 11",
+    "chapter": "Kapitel 1 – Erinnerungen",
+    "lesson": "Lektion 1 – Das Wetter"
+  },
+  {
+    "id": 5,
+    "pl": "deszczowo",
+    "de": "regnerisch",
+    "page": "STRONA 11",
+    "chapter": "Kapitel 1 – Erinnerungen",
+    "lesson": "Lektion 1 – Das Wetter"
+  },
+  {
+    "id": 6,
+    "pl": "słonecznie",
+    "de": "sonnig",
+    "page": "STRONA 11",
+    "chapter": "Kapitel 1 – Erinnerungen",
+    "lesson": "Lektion 1 – Das Wetter"
+  },
+  {
+    "id": 7,
+    "pl": "ciepło",
+    "de": "warm",
+    "page": "STRONA 11",
+    "chapter": "Kapitel 1 – Erinnerungen",
+    "lesson": "Lektion 1 – Das Wetter"
+  },
+  {
+    "id": 8,
+    "pl": "wietrznie",
+    "de": "windig",
+    "page": "STRONA 11",
+    "chapter": "Kapitel 1 – Erinnerungen",
+    "lesson": "Lektion 1 – Das Wetter"
+  },
+  {
+    "id": 9,
+    "pl": "bezwietrznie",
+    "de": "windstill",
+    "page": "STRONA 11",
+    "chapter": "Kapitel 1 – Erinnerungen",
+    "lesson": "Lektion 1 – Das Wetter"
+  },
+  {
+    "id": 10,
+    "pl": "ulubiona pogoda",
+    "de": "das Lieblingswetter",
+    "page": "STRONA 11",
+    "chapter": "Kapitel 1 – Erinnerungen",
+    "lesson": "Lektion 1 – Das Wetter"
+  },
+  {
+    "id": 11,
+    "pl": "miejsce",
+    "de": "der Ort",
+    "page": "STRONA 11",
+    "chapter": "Kapitel 1 – Erinnerungen",
+    "lesson": "Lektion 1 – Das Wetter"
+  },
+  {
+    "id": 12,
+    "pl": "prognoza pogody",
+    "de": "die Prognose",
+    "page": "STRONA 11",
+    "chapter": "Kapitel 1 – Erinnerungen",
+    "lesson": "Lektion 1 – Das Wetter"
+  },
+  {
+    "id": 13,
+    "pl": "padać (pada deszcz)",
+    "de": "regnen (es regnet)",
+    "page": "STRONA 11",
+    "chapter": "Kapitel 1 – Erinnerungen",
+    "lesson": "Lektion 1 – Das Wetter"
+  },
+  {
+    "id": 14,
+    "pl": "prognoza pogody",
+    "de": "die Wettervorhersage",
+    "page": "STRONA 11",
+    "chapter": "Kapitel 1 – Erinnerungen",
+    "lesson": "Lektion 1 – Das Wetter"
+  },
+  {
+    "id": 15,
+    "pl": "sprawdzać pogodę",
+    "de": "nach dem Wetter schauen",
+    "page": "STRONA 11",
+    "chapter": "Kapitel 1 – Erinnerungen",
+    "lesson": "Lektion 1 – Das Wetter"
+  },
+  {
+    "id": 16,
+    "pl": "Będzie nadal słonecznie.",
+    "de": "Es bleibt sonnig.",
+    "page": "STRONA 11",
+    "chapter": "Kapitel 1 – Erinnerungen",
+    "lesson": "Lektion 1 – Das Wetter"
+  },
+  {
+    "id": 17,
+    "pl": "Dzisiaj jest wietrznie.",
+    "de": "Es ist heute windig.",
+    "page": "STRONA 11",
+    "chapter": "Kapitel 1 – Erinnerungen",
+    "lesson": "Lektion 1 – Das Wetter"
+  },
+  {
+    "id": 18,
+    "pl": "Jutro będzie bardzo ciepło.",
+    "de": "Es wird morgen sehr warm.",
+    "page": "STRONA 11",
+    "chapter": "Kapitel 1 – Erinnerungen",
+    "lesson": "Lektion 1 – Das Wetter"
+  },
+  {
+    "id": 19,
+    "pl": "Alpy",
+    "de": "die Alpen",
+    "page": "STRONA 11",
+    "chapter": "Kapitel 1 – Erinnerungen",
+    "lesson": "Lektion 2 – Landschaften"
+  },
+  {
+    "id": 20,
+    "pl": "góra",
+    "de": "der Berg",
+    "page": "STRONA 11",
+    "chapter": "Kapitel 1 – Erinnerungen",
+    "lesson": "Lektion 2 – Landschaften"
+  },
+  {
+    "id": 21,
+    "pl": "łódka",
+    "de": "das Boot",
+    "page": "STRONA 11",
+    "chapter": "Kapitel 1 – Erinnerungen",
+    "lesson": "Lektion 2 – Landschaften"
+  },
+  {
+    "id": 22,
+    "pl": "wieś",
+    "de": "das Dorf",
+    "page": "STRONA 11",
+    "chapter": "Kapitel 1 – Erinnerungen",
+    "lesson": "Lektion 2 – Landschaften"
+  },
+  {
+    "id": 23,
+    "pl": "skała",
+    "de": "der Felsen",
+    "page": "STRONA 11",
+    "chapter": "Kapitel 1 – Erinnerungen",
+    "lesson": "Lektion 2 – Landschaften"
+  },
+  {
+    "id": 24,
+    "pl": "rzeka",
+    "de": "der Fluss",
+    "page": "STRONA 11",
+    "chapter": "Kapitel 1 – Erinnerungen",
+    "lesson": "Lektion 2 – Landschaften"
+  },
+  {
+    "id": 25,
+    "pl": "góry",
+    "de": "das Gebirge",
+    "page": "STRONA 11",
+    "chapter": "Kapitel 1 – Erinnerungen",
+    "lesson": "Lektion 2 – Landschaften"
+  },
+  {
+    "id": 26,
+    "pl": "szczyt",
+    "de": "der Gipfel",
+    "page": "STRONA 11",
+    "chapter": "Kapitel 1 – Erinnerungen",
+    "lesson": "Lektion 2 – Landschaften"
+  },
+  {
+    "id": 27,
+    "pl": "drewniana chatka",
+    "de": "die Holzhütte",
+    "page": "STRONA 11",
+    "chapter": "Kapitel 1 – Erinnerungen",
+    "lesson": "Lektion 2 – Landschaften"
+  },
+  {
+    "id": 28,
+    "pl": "kanał",
+    "de": "der Kanal",
+    "page": "STRONA 11",
+    "chapter": "Kapitel 1 – Erinnerungen",
+    "lesson": "Lektion 2 – Landschaften"
+  },
+  {
+    "id": 29,
+    "pl": "powietrze",
+    "de": "die Luft",
+    "page": "STRONA 11",
+    "chapter": "Kapitel 1 – Erinnerungen",
+    "lesson": "Lektion 2 – Landschaften"
+  },
+  {
+    "id": 30,
+    "pl": "kajak",
+    "de": "das Kanu",
+    "page": "STRONA 11",
+    "chapter": "Kapitel 1 – Erinnerungen",
+    "lesson": "Lektion 2 – Landschaften"
+  },
+  {
+    "id": 31,
+    "pl": "morze",
+    "de": "das Meer",
+    "page": "STRONA 11",
+    "chapter": "Kapitel 1 – Erinnerungen",
+    "lesson": "Lektion 2 – Landschaften"
+  },
+  {
+    "id": 32,
+    "pl": "panorama",
+    "de": "das Panorama",
+    "page": "STRONA 11",
+    "chapter": "Kapitel 1 – Erinnerungen",
+    "lesson": "Lektion 2 – Landschaften"
+  },
+  {
+    "id": 33,
+    "pl": "stok narciarski",
+    "de": "die Piste",
+    "page": "STRONA 11",
+    "chapter": "Kapitel 1 – Erinnerungen",
+    "lesson": "Lektion 2 – Landschaften"
+  },
+  {
+    "id": 34,
+    "pl": "region",
+    "de": "die Region",
+    "page": "STRONA 11",
+    "chapter": "Kapitel 1 – Erinnerungen",
+    "lesson": "Lektion 2 – Landschaften"
+  },
+  {
+    "id": 35,
+    "pl": "morze",
+    "de": "die See",
+    "page": "STRONA 11",
+    "chapter": "Kapitel 1 – Erinnerungen",
+    "lesson": "Lektion 2 – Landschaften"
+  },
+  {
+    "id": 36,
+    "pl": "jezioro",
+    "de": "der See",
+    "page": "STRONA 11",
+    "chapter": "Kapitel 1 – Erinnerungen",
+    "lesson": "Lektion 2 – Landschaften"
+  },
+  {
+    "id": 37,
+    "pl": "plaża",
+    "de": "der Strand",
+    "page": "STRONA 11",
+    "chapter": "Kapitel 1 – Erinnerungen",
+    "lesson": "Lektion 2 – Landschaften"
+  },
+  {
+    "id": 38,
+    "pl": "las",
+    "de": "der Wald",
+    "page": "STRONA 11",
+    "chapter": "Kapitel 1 – Erinnerungen",
+    "lesson": "Lektion 2 – Landschaften"
+  },
+  {
+    "id": 39,
+    "pl": "nad rzeką",
+    "de": "am Fluss",
+    "page": "STRONA 11",
+    "chapter": "Kapitel 1 – Erinnerungen",
+    "lesson": "Lektion 2 – Landschaften"
+  },
+  {
+    "id": 40,
+    "pl": "nad morzem",
+    "de": "am Meer / an der See",
+    "page": "STRONA 11",
+    "chapter": "Kapitel 1 – Erinnerungen",
+    "lesson": "Lektion 2 – Landschaften"
+  },
+  {
+    "id": 41,
+    "pl": "nad jeziorem",
+    "de": "am See",
+    "page": "STRONA 11",
+    "chapter": "Kapitel 1 – Erinnerungen",
+    "lesson": "Lektion 2 – Landschaften"
+  },
+  {
+    "id": 42,
+    "pl": "na plaży",
+    "de": "am Strand",
+    "page": "STRONA 11",
+    "chapter": "Kapitel 1 – Erinnerungen",
+    "lesson": "Lektion 2 – Landschaften"
+  },
+  {
+    "id": 43,
+    "pl": "w powietrzu",
+    "de": "in der Luft",
+    "page": "STRONA 11",
+    "chapter": "Kapitel 1 – Erinnerungen",
+    "lesson": "Lektion 2 – Landschaften"
+  },
+  {
+    "id": 44,
+    "pl": "na rzekach",
+    "de": "auf den Flüssen",
+    "page": "STRONA 11",
+    "chapter": "Kapitel 1 – Erinnerungen",
+    "lesson": "Lektion 2 – Landschaften"
+  },
+  {
+    "id": 45,
+    "pl": "na środku morza",
+    "de": "mitten im Meer",
+    "page": "STRONA 11",
+    "chapter": "Kapitel 1 – Erinnerungen",
+    "lesson": "Lektion 2 – Landschaften"
+  },
+  {
+    "id": 46,
+    "pl": "łowić ryby",
+    "de": "angeln",
+    "page": "STRONA 11",
+    "chapter": "Kapitel 1 – Erinnerungen",
+    "lesson": "Lektion 2 – Erholung"
+  },
+  {
+    "id": 47,
+    "pl": "ruszać się",
+    "de": "sich bewegen",
+    "page": "STRONA 11",
+    "chapter": "Kapitel 1 – Erinnerungen",
+    "lesson": "Lektion 2 – Erholung"
+  },
+  {
+    "id": 48,
+    "pl": "wypoczywać",
+    "de": "sich erholen",
+    "page": "STRONA 11",
+    "chapter": "Kapitel 1 – Erinnerungen",
+    "lesson": "Lektion 2 – Erholung"
+  },
+  {
+    "id": 49,
+    "pl": "przeżywać",
+    "de": "erleben",
+    "page": "STRONA 11",
+    "chapter": "Kapitel 1 – Erinnerungen",
+    "lesson": "Lektion 2 – Erholung"
+  },
+  {
+    "id": 50,
+    "pl": "cieszyć się",
+    "de": "sich freuen",
+    "page": "STRONA 11",
+    "chapter": "Kapitel 1 – Erinnerungen",
+    "lesson": "Lektion 2 – Erholung"
+  },
+  {
+    "id": 51,
+    "pl": "interesować się",
+    "de": "sich interessieren",
+    "page": "STRONA 11",
+    "chapter": "Kapitel 1 – Erinnerungen",
+    "lesson": "Lektion 2 – Erholung"
+  },
+  {
+    "id": 52,
+    "pl": "wspinać się",
+    "de": "klettern",
+    "page": "STRONA 11",
+    "chapter": "Kapitel 1 – Erinnerungen",
+    "lesson": "Lektion 2 – Erholung"
+  },
+  {
+    "id": 53,
+    "pl": "wiosłować",
+    "de": "paddeln",
+    "page": "STRONA 11",
+    "chapter": "Kapitel 1 – Erinnerungen",
+    "lesson": "Lektion 2 – Erholung"
+  },
+  {
+    "id": 54,
+    "pl": "żeglować",
+    "de": "segeln",
+    "page": "STRONA 11",
+    "chapter": "Kapitel 1 – Erinnerungen",
+    "lesson": "Lektion 2 – Erholung"
+  },
+  {
+    "id": 55,
+    "pl": "wędrować",
+    "de": "wandern",
+    "page": "STRONA 11",
+    "chapter": "Kapitel 1 – Erinnerungen",
+    "lesson": "Lektion 2 – Erholung"
+  },
+  {
+    "id": 56,
+    "pl": "być aktywnym",
+    "de": "aktiv sein",
+    "page": "STRONA 11",
+    "chapter": "Kapitel 1 – Erinnerungen",
+    "lesson": "Lektion 2 – Erholung"
+  },
+  {
+    "id": 57,
+    "pl": "zbierać energię",
+    "de": "Energie tanken",
+    "page": "STRONA 11",
+    "chapter": "Kapitel 1 – Erinnerungen",
+    "lesson": "Lektion 2 – Erholung"
+  },
+  {
+    "id": 58,
+    "pl": "pływać kajakiem",
+    "de": "Kanu fahren",
+    "page": "STRONA 11",
+    "chapter": "Kapitel 1 – Erinnerungen",
+    "lesson": "Lektion 2 – Erholung"
+  },
+  {
+    "id": 59,
+    "pl": "leżeć na słońcu",
+    "de": "in der Sonne liegen",
+    "page": "STRONA 11",
+    "chapter": "Kapitel 1 – Erinnerungen",
+    "lesson": "Lektion 2 – Erholung"
+  },
+  {
+    "id": 60,
+    "pl": "kąpielisko",
+    "de": "das Freibad",
+    "page": "STRONA 11",
+    "chapter": "Kapitel 1 – Erinnerungen",
+    "lesson": "Lektion 3 – Sommer in der Stadt"
+  },
+  {
+    "id": 61,
+    "pl": "scena koncertowa",
+    "de": "die Konzertbühne",
+    "page": "STRONA 11",
+    "chapter": "Kapitel 1 – Erinnerungen",
+    "lesson": "Lektion 3 – Sommer in der Stadt"
+  },
+  {
+    "id": 62,
+    "pl": "oferta na lato",
+    "de": "das Sommerangebot",
+    "page": "STRONA 11",
+    "chapter": "Kapitel 1 – Erinnerungen",
+    "lesson": "Lektion 3 – Sommer in der Stadt"
+  },
+  {
+    "id": 63,
+    "pl": "stoisko",
+    "de": "der Stand",
+    "page": "STRONA 11",
+    "chapter": "Kapitel 1 – Erinnerungen",
+    "lesson": "Lektion 3 – Sommer in der Stadt"
+  },
+  {
+    "id": 64,
+    "pl": "park wodny",
+    "de": "der Wasserpark",
+    "page": "STRONA 11",
+    "chapter": "Kapitel 1 – Erinnerungen",
+    "lesson": "Lektion 3 – Sommer in der Stadt"
+  },
+  {
+    "id": 65,
+    "pl": "łąka",
+    "de": "die Wiese",
+    "page": "STRONA 11",
+    "chapter": "Kapitel 1 – Erinnerungen",
+    "lesson": "Lektion 3 – Sommer in der Stadt"
+  },
+  {
+    "id": 66,
+    "pl": "wyszaleć się",
+    "de": "sich aus|toben",
+    "page": "STRONA 11",
+    "chapter": "Kapitel 1 – Erinnerungen",
+    "lesson": "Lektion 3 – Sommer in der Stadt"
+  },
+  {
+    "id": 67,
+    "pl": "przynosić ze sobą",
+    "de": "mit|bringen",
+    "page": "STRONA 11",
+    "chapter": "Kapitel 1 – Erinnerungen",
+    "lesson": "Lektion 3 – Sommer in der Stadt"
+  },
+  {
+    "id": 68,
+    "pl": "spotykać się",
+    "de": "sich treffen",
+    "page": "STRONA 11",
+    "chapter": "Kapitel 1 – Erinnerungen",
+    "lesson": "Lektion 3 – Sommer in der Stadt"
+  },
+  {
+    "id": 69,
+    "pl": "wstęp wolny",
+    "de": "Eintritt frei",
+    "page": "STRONA 11",
+    "chapter": "Kapitel 1 – Erinnerungen",
+    "lesson": "Lektion 3 – Sommer in der Stadt"
+  },
+  {
+    "id": 70,
+    "pl": "otwarte od godziny 8.00",
+    "de": "ab 8.00 Uhr geöffnet",
+    "page": "STRONA 11",
+    "chapter": "Kapitel 1 – Erinnerungen",
+    "lesson": "Lektion 3 – Sommer in der Stadt"
+  },
+  {
+    "id": 71,
+    "pl": "całą dobę",
+    "de": "rund um die Uhr",
+    "page": "STRONA 11",
+    "chapter": "Kapitel 1 – Erinnerungen",
+    "lesson": "Lektion 3 – Sommer in der Stadt"
+  },
+  {
+    "id": 72,
+    "pl": "pod gołym niebem",
+    "de": "unter freiem Himmel",
+    "page": "STRONA 11",
+    "chapter": "Kapitel 1 – Erinnerungen",
+    "lesson": "Lektion 3 – Sommer in der Stadt"
+  },
+  {
+    "id": 73,
+    "pl": "super program",
+    "de": "ein super Programm",
+    "page": "STRONA 11",
+    "chapter": "Kapitel 1 – Erinnerungen",
+    "lesson": "Lektion 3 – Sommer in der Stadt"
+  },
+  {
+    "id": 74,
+    "pl": "podczas deszczu zamknięte",
+    "de": "bei Regen geschlossen",
+    "page": "STRONA 11",
+    "chapter": "Kapitel 1 – Erinnerungen",
+    "lesson": "Lektion 3 – Sommer in der Stadt"
+  },
+  {
+    "id": 75,
+    "pl": "czuć się",
+    "de": "sich fühlen",
+    "page": "STRONA 11",
+    "chapter": "Kapitel 1 – Erinnerungen",
+    "lesson": "Lektion 4 – Sommerferien im Ausland"
+  },
+  {
+    "id": 76,
+    "pl": "spędzać",
+    "de": "verbringen",
+    "page": "STRONA 11",
+    "chapter": "Kapitel 1 – Erinnerungen",
+    "lesson": "Lektion 4 – Sommerferien im Ausland"
+  },
+  {
+    "id": 77,
+    "pl": "pobłądzić, zgubić się",
+    "de": "sich verlaufen",
+    "page": "STRONA 11",
+    "chapter": "Kapitel 1 – Erinnerungen",
+    "lesson": "Lektion 4 – Sommerferien im Ausland"
+  },
+  {
+    "id": 78,
+    "pl": "zakochać się",
+    "de": "sich verlieben",
+    "page": "STRONA 11",
+    "chapter": "Kapitel 1 – Erinnerungen",
+    "lesson": "Lektion 4 – Sommerferien im Ausland"
+  },
+  {
+    "id": 79,
+    "pl": "wyjeżdżać",
+    "de": "verreisen",
+    "page": "STRONA 11",
+    "chapter": "Kapitel 1 – Erinnerungen",
+    "lesson": "Lektion 4 – Sommerferien im Ausland"
+  },
+  {
+    "id": 80,
+    "pl": "przygoda w Brukseli",
+    "de": "ein Abenteuer in Brüssel",
+    "page": "STRONA 11",
+    "chapter": "Kapitel 1 – Erinnerungen",
+    "lesson": "Lektion 4 – Sommerferien im Ausland"
+  },
+  {
+    "id": 81,
+    "pl": "jechać na wakacje",
+    "de": "in die Ferien fahren",
+    "page": "STRONA 11",
+    "chapter": "Kapitel 1 – Erinnerungen",
+    "lesson": "Lektion 4 – Sommerferien im Ausland"
+  },
+  {
+    "id": 82,
+    "pl": "być we Włoszech",
+    "de": "in Italien sein",
+    "page": "STRONA 11",
+    "chapter": "Kapitel 1 – Erinnerungen",
+    "lesson": "Lektion 4 – Sommerferien im Ausland"
+  },
+  {
+    "id": 83,
+    "pl": "być w Holandii",
+    "de": "in den Niederlanden sein",
+    "page": "STRONA 11",
+    "chapter": "Kapitel 1 – Erinnerungen",
+    "lesson": "Lektion 4 – Sommerferien im Ausland"
+  },
+  {
+    "id": 84,
+    "pl": "na wakacjach",
+    "de": "in den Sommerferien",
+    "page": "STRONA 11",
+    "chapter": "Kapitel 1 – Erinnerungen",
+    "lesson": "Lektion 4 – Sommerferien im Ausland"
+  },
+  {
+    "id": 85,
+    "pl": "większość czasu",
+    "de": "die meiste Zeit",
+    "page": "STRONA 11",
+    "chapter": "Kapitel 1 – Erinnerungen",
+    "lesson": "Lektion 4 – Sommerferien im Ausland"
+  },
+  {
+    "id": 86,
+    "pl": "rozmowa telefoniczna",
+    "de": "der Anruf",
+    "page": "STRONA 19",
+    "chapter": "Kapitel 2 – Unterwegs",
+    "lesson": "Lektion 1 – Unterwegs"
+  },
+  {
+    "id": 87,
+    "pl": "numer domu",
+    "de": "die Hausnummer",
+    "page": "STRONA 19",
+    "chapter": "Kapitel 2 – Unterwegs",
+    "lesson": "Lektion 1 – Unterwegs"
+  },
+  {
+    "id": 88,
+    "pl": "nawigacja samochodowa",
+    "de": "das Navi",
+    "page": "STRONA 19",
+    "chapter": "Kapitel 2 – Unterwegs",
+    "lesson": "Lektion 1 – Unterwegs"
+  },
+  {
+    "id": 89,
+    "pl": "kierunek",
+    "de": "die Richtung",
+    "page": "STRONA 19",
+    "chapter": "Kapitel 2 – Unterwegs",
+    "lesson": "Lektion 1 – Unterwegs"
+  },
+  {
+    "id": 90,
+    "pl": "termin",
+    "de": "der Termin",
+    "page": "STRONA 19",
+    "chapter": "Kapitel 2 – Unterwegs",
+    "lesson": "Lektion 1 – Unterwegs"
+  },
+  {
+    "id": 91,
+    "pl": "linia metra",
+    "de": "die U-Bahnlinie",
+    "page": "STRONA 19",
+    "chapter": "Kapitel 2 – Unterwegs",
+    "lesson": "Lektion 1 – Unterwegs"
+  },
+  {
+    "id": 92,
+    "pl": "zapisywać",
+    "de": "auf|schreiben",
+    "page": "STRONA 19",
+    "chapter": "Kapitel 2 – Unterwegs",
+    "lesson": "Lektion 1 – Unterwegs"
+  },
+  {
+    "id": 93,
+    "pl": "wysiadać",
+    "de": "aus|steigen",
+    "page": "STRONA 19",
+    "chapter": "Kapitel 2 – Unterwegs",
+    "lesson": "Lektion 1 – Unterwegs"
+  },
+  {
+    "id": 94,
+    "pl": "wsiadać",
+    "de": "ein|steigen",
+    "page": "STRONA 19",
+    "chapter": "Kapitel 2 – Unterwegs",
+    "lesson": "Lektion 1 – Unterwegs"
+  },
+  {
+    "id": 95,
+    "pl": "znać",
+    "de": "kennen",
+    "page": "STRONA 19",
+    "chapter": "Kapitel 2 – Unterwegs",
+    "lesson": "Lektion 1 – Unterwegs"
+  },
+  {
+    "id": 96,
+    "pl": "zapamiętać",
+    "de": "sich merken",
+    "page": "STRONA 19",
+    "chapter": "Kapitel 2 – Unterwegs",
+    "lesson": "Lektion 1 – Unterwegs"
+  },
+  {
+    "id": 97,
+    "pl": "wysyłać",
+    "de": "schicken",
+    "page": "STRONA 19",
+    "chapter": "Kapitel 2 – Unterwegs",
+    "lesson": "Lektion 1 – Unterwegs"
+  },
+  {
+    "id": 98,
+    "pl": "używać nawigacji",
+    "de": "das Navi benutzen",
+    "page": "STRONA 19",
+    "chapter": "Kapitel 2 – Unterwegs",
+    "lesson": "Lektion 1 – Unterwegs"
+  },
+  {
+    "id": 99,
+    "pl": "wsiąść do złego autobusu",
+    "de": "in den falschen Bus ein|steigen",
+    "page": "STRONA 19",
+    "chapter": "Kapitel 2 – Unterwegs",
+    "lesson": "Lektion 1 – Unterwegs"
+  },
+  {
+    "id": 100,
+    "pl": "pojechać w złym kierunku",
+    "de": "in die falsche Richtung fahren",
+    "page": "STRONA 19",
+    "chapter": "Kapitel 2 – Unterwegs",
+    "lesson": "Lektion 1 – Unterwegs"
+  },
+  {
+    "id": 101,
+    "pl": "jechać w kierunku…",
+    "de": "in Richtung … fahren",
+    "page": "STRONA 19",
+    "chapter": "Kapitel 2 – Unterwegs",
+    "lesson": "Lektion 1 – Unterwegs"
+  },
+  {
+    "id": 102,
+    "pl": "jechać linią metra U1",
+    "de": "die (U-Bahnlinie) U1 nehmen",
+    "page": "STRONA 19",
+    "chapter": "Kapitel 2 – Unterwegs",
+    "lesson": "Lektion 1 – Unterwegs"
+  },
+  {
+    "id": 103,
+    "pl": "notować niewłaściwy adres",
+    "de": "die falsche Adresse notieren",
+    "page": "STRONA 19",
+    "chapter": "Kapitel 2 – Unterwegs",
+    "lesson": "Lektion 1 – Unterwegs"
+  },
+  {
+    "id": 104,
+    "pl": "zgubić adres",
+    "de": "die Adresse verlieren",
+    "page": "STRONA 19",
+    "chapter": "Kapitel 2 – Unterwegs",
+    "lesson": "Lektion 1 – Unterwegs"
+  },
+  {
+    "id": 105,
+    "pl": "wprowadzać się do nowego mieszkania",
+    "de": "in eine neue Wohnung ziehen",
+    "page": "STRONA 19",
+    "chapter": "Kapitel 2 – Unterwegs",
+    "lesson": "Lektion 1 – Unterwegs"
+  },
+  {
+    "id": 106,
+    "pl": "ocena",
+    "de": "die Bewertung",
+    "page": "STRONA 19",
+    "chapter": "Kapitel 2 – Unterwegs",
+    "lesson": "Lektion 2 – In der Stadt"
+  },
+  {
+    "id": 107,
+    "pl": "katedra",
+    "de": "der Dom",
+    "page": "STRONA 19",
+    "chapter": "Kapitel 2 – Unterwegs",
+    "lesson": "Lektion 2 – In der Stadt"
+  },
+  {
+    "id": 108,
+    "pl": "przystanek",
+    "de": "die Haltestelle",
+    "page": "STRONA 19",
+    "chapter": "Kapitel 2 – Unterwegs",
+    "lesson": "Lektion 2 – In der Stadt"
+  },
+  {
+    "id": 109,
+    "pl": "dworzec główny",
+    "de": "der Hauptbahnhof",
+    "page": "STRONA 19",
+    "chapter": "Kapitel 2 – Unterwegs",
+    "lesson": "Lektion 2 – In der Stadt"
+  },
+  {
+    "id": 110,
+    "pl": "kościół",
+    "de": "die Kirche",
+    "page": "STRONA 19",
+    "chapter": "Kapitel 2 – Unterwegs",
+    "lesson": "Lektion 2 – In der Stadt"
+  },
+  {
+    "id": 111,
+    "pl": "rynek",
+    "de": "der Marktplatz",
+    "page": "STRONA 19",
+    "chapter": "Kapitel 2 – Unterwegs",
+    "lesson": "Lektion 2 – In der Stadt"
+  },
+  {
+    "id": 112,
+    "pl": "parking",
+    "de": "der Parkplatz",
+    "page": "STRONA 19",
+    "chapter": "Kapitel 2 – Unterwegs",
+    "lesson": "Lektion 2 – In der Stadt"
+  },
+  {
+    "id": 113,
+    "pl": "ratusz",
+    "de": "das Rathaus",
+    "page": "STRONA 19",
+    "chapter": "Kapitel 2 – Unterwegs",
+    "lesson": "Lektion 2 – In der Stadt"
+  },
+  {
+    "id": 114,
+    "pl": "teatr państwowy",
+    "de": "das Staatstheater",
+    "page": "STRONA 19",
+    "chapter": "Kapitel 2 – Unterwegs",
+    "lesson": "Lektion 2 – In der Stadt"
+  },
+  {
+    "id": 115,
+    "pl": "zabytek",
+    "de": "die Sehenswürdigkeit",
+    "page": "STRONA 19",
+    "chapter": "Kapitel 2 – Unterwegs",
+    "lesson": "Lektion 2 – In der Stadt"
+  },
+  {
+    "id": 116,
+    "pl": "plan miasta",
+    "de": "der Stadtplan",
+    "page": "STRONA 19",
+    "chapter": "Kapitel 2 – Unterwegs",
+    "lesson": "Lektion 2 – In der Stadt"
+  },
+  {
+    "id": 117,
+    "pl": "symbol",
+    "de": "das Wahrzeichen",
+    "page": "STRONA 19",
+    "chapter": "Kapitel 2 – Unterwegs",
+    "lesson": "Lektion 2 – In der Stadt"
+  },
+  {
+    "id": 118,
+    "pl": "droga",
+    "de": "der Weg",
+    "page": "STRONA 19",
+    "chapter": "Kapitel 2 – Unterwegs",
+    "lesson": "Lektion 2 – In der Stadt"
+  },
+  {
+    "id": 119,
+    "pl": "prosto",
+    "de": "geradeaus",
+    "page": "STRONA 19",
+    "chapter": "Kapitel 2 – Unterwegs",
+    "lesson": "Lektion 2 – In der Stadt"
+  },
+  {
+    "id": 120,
+    "pl": "w lewo",
+    "de": "links",
+    "page": "STRONA 19",
+    "chapter": "Kapitel 2 – Unterwegs",
+    "lesson": "Lektion 2 – In der Stadt"
+  },
+  {
+    "id": 121,
+    "pl": "w prawo",
+    "de": "rechts",
+    "page": "STRONA 19",
+    "chapter": "Kapitel 2 – Unterwegs",
+    "lesson": "Lektion 2 – In der Stadt"
+  },
+  {
+    "id": 122,
+    "pl": "skręcać",
+    "de": "abbiegen",
+    "page": "STRONA 19",
+    "chapter": "Kapitel 2 – Unterwegs",
+    "lesson": "Lektion 2 – In der Stadt"
+  },
+  {
+    "id": 123,
+    "pl": "jechać linią 75",
+    "de": "die (Linie) 75 nehmen",
+    "page": "STRONA 19",
+    "chapter": "Kapitel 2 – Unterwegs",
+    "lesson": "Lektion 2 – In der Stadt"
+  },
+  {
+    "id": 124,
+    "pl": "dojść do rynku",
+    "de": "bis zum Markt gehen",
+    "page": "STRONA 19",
+    "chapter": "Kapitel 2 – Unterwegs",
+    "lesson": "Lektion 2 – In der Stadt"
+  },
+  {
+    "id": 125,
+    "pl": "pierwsza ulica w lewo",
+    "de": "die erste Straße links",
+    "page": "STRONA 19",
+    "chapter": "Kapitel 2 – Unterwegs",
+    "lesson": "Lektion 2 – In der Stadt"
+  },
+  {
+    "id": 126,
+    "pl": "na lewo / na prawo",
+    "de": "nach links / rechts",
+    "page": "STRONA 19",
+    "chapter": "Kapitel 2 – Unterwegs",
+    "lesson": "Lektion 2 – In der Stadt"
+  },
+  {
+    "id": 127,
+    "pl": "przejść przez rynek",
+    "de": "über den Marktplatz gehen",
+    "page": "STRONA 19",
+    "chapter": "Kapitel 2 – Unterwegs",
+    "lesson": "Lektion 2 – In der Stadt"
+  },
+  {
+    "id": 128,
+    "pl": "samochód",
+    "de": "das Auto",
+    "page": "STRONA 19",
+    "chapter": "Kapitel 2 – Unterwegs",
+    "lesson": "Lektion 3 – Verkehrsmittel"
+  },
+  {
+    "id": 129,
+    "pl": "autobus",
+    "de": "der Bus",
+    "page": "STRONA 19",
+    "chapter": "Kapitel 2 – Unterwegs",
+    "lesson": "Lektion 3 – Verkehrsmittel"
+  },
+  {
+    "id": 130,
+    "pl": "rower",
+    "de": "das Fahrrad",
+    "page": "STRONA 19",
+    "chapter": "Kapitel 2 – Unterwegs",
+    "lesson": "Lektion 3 – Verkehrsmittel"
+  },
+  {
+    "id": 131,
+    "pl": "skuter",
+    "de": "das Mofa",
+    "page": "STRONA 19",
+    "chapter": "Kapitel 2 – Unterwegs",
+    "lesson": "Lektion 3 – Verkehrsmittel"
+  },
+  {
+    "id": 132,
+    "pl": "tramwaj",
+    "de": "die Straßenbahn",
+    "page": "STRONA 19",
+    "chapter": "Kapitel 2 – Unterwegs",
+    "lesson": "Lektion 3 – Verkehrsmittel"
+  },
+  {
+    "id": 133,
+    "pl": "metro",
+    "de": "die U-Bahn",
+    "page": "STRONA 19",
+    "chapter": "Kapitel 2 – Unterwegs",
+    "lesson": "Lektion 3 – Verkehrsmittel"
+  },
+  {
+    "id": 134,
+    "pl": "taksówka",
+    "de": "das Taxi",
+    "page": "STRONA 19",
+    "chapter": "Kapitel 2 – Unterwegs",
+    "lesson": "Lektion 3 – Verkehrsmittel"
+  },
+  {
+    "id": 135,
+    "pl": "tani",
+    "de": "billig",
+    "page": "STRONA 19",
+    "chapter": "Kapitel 2 – Unterwegs",
+    "lesson": "Lektion 3 – Verkehrsmittel"
+  },
+  {
+    "id": 136,
+    "pl": "zdrowy",
+    "de": "gesund",
+    "page": "STRONA 19",
+    "chapter": "Kapitel 2 – Unterwegs",
+    "lesson": "Lektion 3 – Verkehrsmittel"
+  },
+  {
+    "id": 137,
+    "pl": "korzystny",
+    "de": "günstig",
+    "page": "STRONA 19",
+    "chapter": "Kapitel 2 – Unterwegs",
+    "lesson": "Lektion 3 – Verkehrsmittel"
+  },
+  {
+    "id": 138,
+    "pl": "wolny",
+    "de": "langsam",
+    "page": "STRONA 19",
+    "chapter": "Kapitel 2 – Unterwegs",
+    "lesson": "Lektion 3 – Verkehrsmittel"
+  },
+  {
+    "id": 139,
+    "pl": "drogi",
+    "de": "teuer",
+    "page": "STRONA 19",
+    "chapter": "Kapitel 2 – Unterwegs",
+    "lesson": "Lektion 3 – Verkehrsmittel"
+  },
+  {
+    "id": 140,
+    "pl": "przyjazny dla środowiska",
+    "de": "umweltfreundlich",
+    "page": "STRONA 19",
+    "chapter": "Kapitel 2 – Unterwegs",
+    "lesson": "Lektion 3 – Verkehrsmittel"
+  },
+  {
+    "id": 141,
+    "pl": "(nie)wygodny",
+    "de": "(un)bequem",
+    "page": "STRONA 19",
+    "chapter": "Kapitel 2 – Unterwegs",
+    "lesson": "Lektion 3 – Verkehrsmittel"
+  },
+  {
+    "id": 142,
+    "pl": "(nie)praktyczny",
+    "de": "(un)praktisch",
+    "page": "STRONA 19",
+    "chapter": "Kapitel 2 – Unterwegs",
+    "lesson": "Lektion 3 – Verkehrsmittel"
+  },
+  {
+    "id": 143,
+    "pl": "(nie)bezpieczny",
+    "de": "(un)sicher",
+    "page": "STRONA 19",
+    "chapter": "Kapitel 2 – Unterwegs",
+    "lesson": "Lektion 3 – Verkehrsmittel"
+  },
+  {
+    "id": 144,
+    "pl": "korek drogowy",
+    "de": "der Stau",
+    "page": "STRONA 19",
+    "chapter": "Kapitel 2 – Unterwegs",
+    "lesson": "Lektion 3 – Verkehrsmittel"
+  },
+  {
+    "id": 145,
+    "pl": "środowisko",
+    "de": "die Umwelt",
+    "page": "STRONA 19",
+    "chapter": "Kapitel 2 – Unterwegs",
+    "lesson": "Lektion 3 – Verkehrsmittel"
+  },
+  {
+    "id": 146,
+    "pl": "odjeżdżać",
+    "de": "ab|fahren",
+    "page": "STRONA 19",
+    "chapter": "Kapitel 2 – Unterwegs",
+    "lesson": "Lektion 3 – Verkehrsmittel"
+  },
+  {
+    "id": 147,
+    "pl": "przyjeżdżać",
+    "de": "an|kommen",
+    "page": "STRONA 19",
+    "chapter": "Kapitel 2 – Unterwegs",
+    "lesson": "Lektion 3 – Verkehrsmittel"
+  },
+  {
+    "id": 148,
+    "pl": "przesiadać się",
+    "de": "um|steigen",
+    "page": "STRONA 19",
+    "chapter": "Kapitel 2 – Unterwegs",
+    "lesson": "Lektion 3 – Verkehrsmittel"
+  },
+  {
+    "id": 149,
+    "pl": "jechać samochodem",
+    "de": "mit dem Auto fahren",
+    "page": "STRONA 19",
+    "chapter": "Kapitel 2 – Unterwegs",
+    "lesson": "Lektion 3 – Verkehrsmittel"
+  },
+  {
+    "id": 150,
+    "pl": "lepszy dla środowiska",
+    "de": "besser für die Umwelt",
+    "page": "STRONA 19",
+    "chapter": "Kapitel 2 – Unterwegs",
+    "lesson": "Lektion 3 – Verkehrsmittel"
+  },
+  {
+    "id": 151,
+    "pl": "jechać autobusem",
+    "de": "den Bus nehmen",
+    "page": "STRONA 19",
+    "chapter": "Kapitel 2 – Unterwegs",
+    "lesson": "Lektion 3 – Verkehrsmittel"
+  },
+  {
+    "id": 152,
+    "pl": "iść pieszo",
+    "de": "zu Fuß gehen",
+    "page": "STRONA 19",
+    "chapter": "Kapitel 2 – Unterwegs",
+    "lesson": "Lektion 3 – Verkehrsmittel"
+  },
+  {
+    "id": 153,
+    "pl": "stać w korku",
+    "de": "im Stau stehen",
+    "page": "STRONA 19",
+    "chapter": "Kapitel 2 – Unterwegs",
+    "lesson": "Lektion 3 – Verkehrsmittel"
+  },
+  {
+    "id": 154,
+    "pl": "podczas deszczu",
+    "de": "bei Regen",
+    "page": "STRONA 19",
+    "chapter": "Kapitel 2 – Unterwegs",
+    "lesson": "Lektion 3 – Verkehrsmittel"
+  },
+  {
+    "id": 155,
+    "pl": "jechać metrem",
+    "de": "mit der U-Bahn fahren",
+    "page": "STRONA 19",
+    "chapter": "Kapitel 2 – Unterwegs",
+    "lesson": "Lektion 3 – Verkehrsmittel"
+  },
+  {
+    "id": 156,
+    "pl": "bezpieczniej niż",
+    "de": "sicherer als",
+    "page": "STRONA 19",
+    "chapter": "Kapitel 2 – Unterwegs",
+    "lesson": "Lektion 3 – Verkehrsmittel"
+  },
+  {
+    "id": 157,
+    "pl": "wpis na blogu",
+    "de": "der Blogbeitrag",
+    "page": "STRONA 19",
+    "chapter": "Kapitel 2 – Unterwegs",
+    "lesson": "Lektion 4 – Radfahren"
+  },
+  {
+    "id": 158,
+    "pl": "parking dla rowerów",
+    "de": "der Fahrradparkplatz",
+    "page": "STRONA 19",
+    "chapter": "Kapitel 2 – Unterwegs",
+    "lesson": "Lektion 4 – Radfahren"
+  },
+  {
+    "id": 159,
+    "pl": "ścieżka rowerowa",
+    "de": "der Fahrradweg",
+    "page": "STRONA 19",
+    "chapter": "Kapitel 2 – Unterwegs",
+    "lesson": "Lektion 4 – Radfahren"
+  },
+  {
+    "id": 160,
+    "pl": "miasto przyjazne rowerzystom",
+    "de": "die Fahrradstadt",
+    "page": "STRONA 19",
+    "chapter": "Kapitel 2 – Unterwegs",
+    "lesson": "Lektion 4 – Radfahren"
+  },
+  {
+    "id": 161,
+    "pl": "popularny",
+    "de": "beliebt",
+    "page": "STRONA 19",
+    "chapter": "Kapitel 2 – Unterwegs",
+    "lesson": "Lektion 4 – Radfahren"
+  },
+  {
+    "id": 162,
+    "pl": "niebezpieczny",
+    "de": "gefährlich",
+    "page": "STRONA 19",
+    "chapter": "Kapitel 2 – Unterwegs",
+    "lesson": "Lektion 4 – Radfahren"
+  },
+  {
+    "id": 163,
+    "pl": "modny",
+    "de": "modisch",
+    "page": "STRONA 19",
+    "chapter": "Kapitel 2 – Unterwegs",
+    "lesson": "Lektion 4 – Radfahren"
+  },
+  {
+    "id": 164,
+    "pl": "przeciw",
+    "de": "kontra",
+    "page": "STRONA 19",
+    "chapter": "Kapitel 2 – Unterwegs",
+    "lesson": "Lektion 4 – Radfahren"
+  },
+  {
+    "id": 165,
+    "pl": "za",
+    "de": "pro",
+    "page": "STRONA 19",
+    "chapter": "Kapitel 2 – Unterwegs",
+    "lesson": "Lektion 4 – Radfahren"
+  },
+  {
+    "id": 166,
+    "pl": "zużywać",
+    "de": "verbrauchen",
+    "page": "STRONA 19",
+    "chapter": "Kapitel 2 – Unterwegs",
+    "lesson": "Lektion 4 – Radfahren"
+  },
+  {
+    "id": 167,
+    "pl": "jechać rowerem",
+    "de": "mit dem Rad fahren",
+    "page": "STRONA 19",
+    "chapter": "Kapitel 2 – Unterwegs",
+    "lesson": "Lektion 4 – Radfahren"
+  },
+  {
+    "id": 168,
+    "pl": "na godzinę",
+    "de": "pro Stunde",
+    "page": "STRONA 19",
+    "chapter": "Kapitel 2 – Unterwegs",
+    "lesson": "Lektion 4 – Radfahren"
+  },
+  {
+    "id": 169,
+    "pl": "podczas ładnej pogody",
+    "de": "bei gutem Wetter",
+    "page": "STRONA 19",
+    "chapter": "Kapitel 2 – Unterwegs",
+    "lesson": "Lektion 4 – Radfahren"
+  },
+  {
+    "id": 170,
+    "pl": "piekarnia",
+    "de": "die Bäckerei",
+    "page": "STRONA 27",
+    "chapter": "Kapitel 3 – Einkaufen",
+    "lesson": "Lektion 1 – Einkäufe"
+  },
+  {
+    "id": 171,
+    "pl": "sklep",
+    "de": "das Geschäft",
+    "page": "STRONA 27",
+    "chapter": "Kapitel 3 – Einkaufen",
+    "lesson": "Lektion 1 – Einkäufe"
+  },
+  {
+    "id": 172,
+    "pl": "sklep internetowy",
+    "de": "das Internetgeschäft",
+    "page": "STRONA 27",
+    "chapter": "Kapitel 3 – Einkaufen",
+    "lesson": "Lektion 1 – Einkäufe"
+  },
+  {
+    "id": 173,
+    "pl": "cukiernia",
+    "de": "die Konditorei",
+    "page": "STRONA 27",
+    "chapter": "Kapitel 3 – Einkaufen",
+    "lesson": "Lektion 1 – Einkäufe"
+  },
+  {
+    "id": 174,
+    "pl": "sklep",
+    "de": "der Laden",
+    "page": "STRONA 27",
+    "chapter": "Kapitel 3 – Einkaufen",
+    "lesson": "Lektion 1 – Einkäufe"
+  },
+  {
+    "id": 175,
+    "pl": "ulubiony sklep",
+    "de": "das Lieblingsgeschäft",
+    "page": "STRONA 27",
+    "chapter": "Kapitel 3 – Einkaufen",
+    "lesson": "Lektion 1 – Einkäufe"
+  },
+  {
+    "id": 176,
+    "pl": "targ",
+    "de": "der Markt",
+    "page": "STRONA 27",
+    "chapter": "Kapitel 3 – Einkaufen",
+    "lesson": "Lektion 1 – Einkäufe"
+  },
+  {
+    "id": 177,
+    "pl": "supermarket",
+    "de": "der Supermarkt",
+    "page": "STRONA 27",
+    "chapter": "Kapitel 3 – Einkaufen",
+    "lesson": "Lektion 1 – Einkäufe"
+  },
+  {
+    "id": 178,
+    "pl": "w piekarni",
+    "de": "in der Bäckerei",
+    "page": "STRONA 27",
+    "chapter": "Kapitel 3 – Einkaufen",
+    "lesson": "Lektion 1 – Einkäufe"
+  },
+  {
+    "id": 179,
+    "pl": "na targu",
+    "de": "auf dem Markt",
+    "page": "STRONA 27",
+    "chapter": "Kapitel 3 – Einkaufen",
+    "lesson": "Lektion 1 – Einkäufe"
+  },
+  {
+    "id": 180,
+    "pl": "w supermarkecie",
+    "de": "im Supermarkt",
+    "page": "STRONA 27",
+    "chapter": "Kapitel 3 – Einkaufen",
+    "lesson": "Lektion 1 – Einkäufe"
+  },
+  {
+    "id": 181,
+    "pl": "kilka minut na piechotę",
+    "de": "einige Gehminuten",
+    "page": "STRONA 27",
+    "chapter": "Kapitel 3 – Einkaufen",
+    "lesson": "Lektion 1 – Einkäufe"
+  },
+  {
+    "id": 182,
+    "pl": "odbywać się",
+    "de": "statt|finden",
+    "page": "STRONA 27",
+    "chapter": "Kapitel 3 – Einkaufen",
+    "lesson": "Lektion 1 – Einkäufe"
+  },
+  {
+    "id": 183,
+    "pl": "wybór",
+    "de": "die Auswahl",
+    "page": "STRONA 27",
+    "chapter": "Kapitel 3 – Einkaufen",
+    "lesson": "Lektion 1 – Im Geschäft"
+  },
+  {
+    "id": 184,
+    "pl": "kasa",
+    "de": "die Kasse",
+    "page": "STRONA 27",
+    "chapter": "Kapitel 3 – Einkaufen",
+    "lesson": "Lektion 1 – Im Geschäft"
+  },
+  {
+    "id": 185,
+    "pl": "wyprzedaż letnia",
+    "de": "der Sommerschlussverkauf",
+    "page": "STRONA 27",
+    "chapter": "Kapitel 3 – Einkaufen",
+    "lesson": "Lektion 1 – Im Geschäft"
+  },
+  {
+    "id": 186,
+    "pl": "oferta specjalna",
+    "de": "das Sonderangebot",
+    "page": "STRONA 27",
+    "chapter": "Kapitel 3 – Einkaufen",
+    "lesson": "Lektion 1 – Im Geschäft"
+  },
+  {
+    "id": 187,
+    "pl": "przeszkadzać",
+    "de": "stören",
+    "page": "STRONA 27",
+    "chapter": "Kapitel 3 – Einkaufen",
+    "lesson": "Lektion 1 – Im Geschäft"
+  },
+  {
+    "id": 188,
+    "pl": "sprzedawczyni",
+    "de": "die Verkäuferin",
+    "page": "STRONA 27",
+    "chapter": "Kapitel 3 – Einkaufen",
+    "lesson": "Lektion 1 – Im Geschäft"
+  },
+  {
+    "id": 189,
+    "pl": "wyprzedaż zimowa",
+    "de": "der Winterschlussverkauf",
+    "page": "STRONA 27",
+    "chapter": "Kapitel 3 – Einkaufen",
+    "lesson": "Lektion 1 – Im Geschäft"
+  },
+  {
+    "id": 190,
+    "pl": "czekać przy kasie",
+    "de": "an der Kasse warten",
+    "page": "STRONA 27",
+    "chapter": "Kapitel 3 – Einkaufen",
+    "lesson": "Lektion 1 – Im Geschäft"
+  },
+  {
+    "id": 191,
+    "pl": "do 70% taniej",
+    "de": "bis zu 70 % billiger",
+    "page": "STRONA 27",
+    "chapter": "Kapitel 3 – Einkaufen",
+    "lesson": "Lektion 1 – Im Geschäft"
+  },
+  {
+    "id": 192,
+    "pl": "długie kolejki",
+    "de": "lange Schlangen",
+    "page": "STRONA 27",
+    "chapter": "Kapitel 3 – Einkaufen",
+    "lesson": "Lektion 1 – Im Geschäft"
+  },
+  {
+    "id": 193,
+    "pl": "chleb",
+    "de": "das Brot",
+    "page": "STRONA 27",
+    "chapter": "Kapitel 3 – Einkaufen",
+    "lesson": "Lektion 1 – Lebensmittel"
+  },
+  {
+    "id": 194,
+    "pl": "bułka",
+    "de": "das Brötchen",
+    "page": "STRONA 27",
+    "chapter": "Kapitel 3 – Einkaufen",
+    "lesson": "Lektion 1 – Lebensmittel"
+  },
+  {
+    "id": 195,
+    "pl": "masło",
+    "de": "die Butter",
+    "page": "STRONA 27",
+    "chapter": "Kapitel 3 – Einkaufen",
+    "lesson": "Lektion 1 – Lebensmittel"
+  },
+  {
+    "id": 196,
+    "pl": "jajko",
+    "de": "das Ei",
+    "page": "STRONA 27",
+    "chapter": "Kapitel 3 – Einkaufen",
+    "lesson": "Lektion 1 – Lebensmittel"
+  },
+  {
+    "id": 197,
+    "pl": "mięso",
+    "de": "das Fleisch",
+    "page": "STRONA 27",
+    "chapter": "Kapitel 3 – Einkaufen",
+    "lesson": "Lektion 1 – Lebensmittel"
+  },
+  {
+    "id": 198,
+    "pl": "warzywa",
+    "de": "das Gemüse",
+    "page": "STRONA 27",
+    "chapter": "Kapitel 3 – Einkaufen",
+    "lesson": "Lektion 1 – Lebensmittel"
+  },
+  {
+    "id": 199,
+    "pl": "ogórek",
+    "de": "die Gurke",
+    "page": "STRONA 27",
+    "chapter": "Kapitel 3 – Einkaufen",
+    "lesson": "Lektion 1 – Lebensmittel"
+  },
+  {
+    "id": 200,
+    "pl": "ser",
+    "de": "der Käse",
+    "page": "STRONA 27",
+    "chapter": "Kapitel 3 – Einkaufen",
+    "lesson": "Lektion 1 – Lebensmittel"
+  },
+  {
+    "id": 201,
+    "pl": "mleko",
+    "de": "die Milch",
+    "page": "STRONA 27",
+    "chapter": "Kapitel 3 – Einkaufen",
+    "lesson": "Lektion 1 – Lebensmittel"
+  },
+  {
+    "id": 202,
+    "pl": "musli",
+    "de": "das Müsli",
+    "page": "STRONA 27",
+    "chapter": "Kapitel 3 – Einkaufen",
+    "lesson": "Lektion 1 – Lebensmittel"
+  },
+  {
+    "id": 203,
+    "pl": "makaron",
+    "de": "die Nudeln",
+    "page": "STRONA 27",
+    "chapter": "Kapitel 3 – Einkaufen",
+    "lesson": "Lektion 1 – Lebensmittel"
+  },
+  {
+    "id": 204,
+    "pl": "owoce",
+    "de": "das Obst",
+    "page": "STRONA 27",
+    "chapter": "Kapitel 3 – Einkaufen",
+    "lesson": "Lektion 1 – Lebensmittel"
+  },
+  {
+    "id": 205,
+    "pl": "puszka",
+    "de": "die Dose",
+    "page": "STRONA 27",
+    "chapter": "Kapitel 3 – Einkaufen",
+    "lesson": "Lektion 2 – Verpackungen, Maße und Gewichte"
+  },
+  {
+    "id": 206,
+    "pl": "butelka",
+    "de": "die Flasche",
+    "page": "STRONA 27",
+    "chapter": "Kapitel 3 – Einkaufen",
+    "lesson": "Lektion 2 – Verpackungen, Maße und Gewichte"
+  },
+  {
+    "id": 207,
+    "pl": "karton",
+    "de": "der Karton",
+    "page": "STRONA 27",
+    "chapter": "Kapitel 3 – Einkaufen",
+    "lesson": "Lektion 2 – Verpackungen, Maße und Gewichte"
+  },
+  {
+    "id": 208,
+    "pl": "paczka",
+    "de": "die Packung",
+    "page": "STRONA 27",
+    "chapter": "Kapitel 3 – Einkaufen",
+    "lesson": "Lektion 2 – Verpackungen, Maße und Gewichte"
+  },
+  {
+    "id": 209,
+    "pl": "kilogram",
+    "de": "das Kilo",
+    "page": "STRONA 27",
+    "chapter": "Kapitel 3 – Einkaufen",
+    "lesson": "Lektion 2 – Verpackungen, Maße und Gewichte"
+  },
+  {
+    "id": 210,
+    "pl": "funt",
+    "de": "das Pfund",
+    "page": "STRONA 27",
+    "chapter": "Kapitel 3 – Einkaufen",
+    "lesson": "Lektion 2 – Verpackungen, Maße und Gewichte"
+  },
+  {
+    "id": 211,
+    "pl": "porcja",
+    "de": "die Portion",
+    "page": "STRONA 27",
+    "chapter": "Kapitel 3 – Einkaufen",
+    "lesson": "Lektion 2 – Verpackungen, Maße und Gewichte"
+  },
+  {
+    "id": 212,
+    "pl": "kawałek / sztuka",
+    "de": "das Stück",
+    "page": "STRONA 27",
+    "chapter": "Kapitel 3 – Einkaufen",
+    "lesson": "Lektion 2 – Verpackungen, Maße und Gewichte"
+  },
+  {
+    "id": 213,
+    "pl": "kurtka",
+    "de": "die Jacke",
+    "page": "STRONA 27",
+    "chapter": "Kapitel 3 – Einkaufen",
+    "lesson": "Lektion 3 – Im Sportgeschäft"
+  },
+  {
+    "id": 214,
+    "pl": "czapka",
+    "de": "die Mütze",
+    "page": "STRONA 27",
+    "chapter": "Kapitel 3 – Einkaufen",
+    "lesson": "Lektion 3 – Im Sportgeschäft"
+  },
+  {
+    "id": 215,
+    "pl": "sweter",
+    "de": "der Pullover",
+    "page": "STRONA 27",
+    "chapter": "Kapitel 3 – Einkaufen",
+    "lesson": "Lektion 3 – Im Sportgeschäft"
+  },
+  {
+    "id": 216,
+    "pl": "szalik",
+    "de": "der Schal",
+    "page": "STRONA 27",
+    "chapter": "Kapitel 3 – Einkaufen",
+    "lesson": "Lektion 3 – Im Sportgeschäft"
+  },
+  {
+    "id": 217,
+    "pl": "strój narciarski",
+    "de": "die Skibekleidung",
+    "page": "STRONA 27",
+    "chapter": "Kapitel 3 – Einkaufen",
+    "lesson": "Lektion 3 – Im Sportgeschäft"
+  },
+  {
+    "id": 218,
+    "pl": "rękawica narciarska",
+    "de": "der Skihandschuh",
+    "page": "STRONA 27",
+    "chapter": "Kapitel 3 – Einkaufen",
+    "lesson": "Lektion 3 – Im Sportgeschäft"
+  },
+  {
+    "id": 219,
+    "pl": "spodnie ocieplane",
+    "de": "die Thermohose",
+    "page": "STRONA 27",
+    "chapter": "Kapitel 3 – Einkaufen",
+    "lesson": "Lektion 3 – Im Sportgeschäft"
+  },
+  {
+    "id": 220,
+    "pl": "skarpeta",
+    "de": "die Socke",
+    "page": "STRONA 27",
+    "chapter": "Kapitel 3 – Einkaufen",
+    "lesson": "Lektion 3 – Im Sportgeschäft"
+  },
+  {
+    "id": 221,
+    "pl": "bluza",
+    "de": "das Sweatshirt",
+    "page": "STRONA 27",
+    "chapter": "Kapitel 3 – Einkaufen",
+    "lesson": "Lektion 3 – Im Sportgeschäft"
+  },
+  {
+    "id": 222,
+    "pl": "kolor",
+    "de": "die Farbe",
+    "page": "STRONA 27",
+    "chapter": "Kapitel 3 – Einkaufen",
+    "lesson": "Lektion 3 – Im Sportgeschäft"
+  },
+  {
+    "id": 223,
+    "pl": "przymierzać",
+    "de": "an|probieren",
+    "page": "STRONA 27",
+    "chapter": "Kapitel 3 – Einkaufen",
+    "lesson": "Lektion 3 – Im Sportgeschäft"
+  },
+  {
+    "id": 224,
+    "pl": "wyglądać",
+    "de": "aus|sehen",
+    "page": "STRONA 27",
+    "chapter": "Kapitel 3 – Einkaufen",
+    "lesson": "Lektion 3 – Im Sportgeschäft"
+  },
+  {
+    "id": 225,
+    "pl": "podobać się",
+    "de": "gefallen",
+    "page": "STRONA 27",
+    "chapter": "Kapitel 3 – Einkaufen",
+    "lesson": "Lektion 3 – Im Sportgeschäft"
+  },
+  {
+    "id": 226,
+    "pl": "pasować",
+    "de": "passen",
+    "page": "STRONA 27",
+    "chapter": "Kapitel 3 – Einkaufen",
+    "lesson": "Lektion 3 – Im Sportgeschäft"
+  },
+  {
+    "id": 227,
+    "pl": "tu: pasować",
+    "de": "stehen",
+    "page": "STRONA 27",
+    "chapter": "Kapitel 3 – Einkaufen",
+    "lesson": "Lektion 3 – Im Sportgeschäft"
+  },
+  {
+    "id": 228,
+    "pl": "balerinki",
+    "de": "die Ballerinas",
+    "page": "STRONA 27",
+    "chapter": "Kapitel 3 – Einkaufen",
+    "lesson": "Lektion 4 – Online kaufen"
+  },
+  {
+    "id": 229,
+    "pl": "półbuty",
+    "de": "die Halbschuhe",
+    "page": "STRONA 27",
+    "chapter": "Kapitel 3 – Einkaufen",
+    "lesson": "Lektion 4 – Online kaufen"
+  },
+  {
+    "id": 230,
+    "pl": "czółenka",
+    "de": "die Pumps",
+    "page": "STRONA 27",
+    "chapter": "Kapitel 3 – Einkaufen",
+    "lesson": "Lektion 4 – Online kaufen"
+  },
+  {
+    "id": 231,
+    "pl": "półtrampki",
+    "de": "die Sneakers",
+    "page": "STRONA 27",
+    "chapter": "Kapitel 3 – Einkaufen",
+    "lesson": "Lektion 4 – Online kaufen"
+  },
+  {
+    "id": 232,
+    "pl": "kozaki",
+    "de": "die Stiefel",
+    "page": "STRONA 27",
+    "chapter": "Kapitel 3 – Einkaufen",
+    "lesson": "Lektion 4 – Online kaufen"
+  },
+  {
+    "id": 233,
+    "pl": "buty turystyczne",
+    "de": "die Wanderschuhe",
+    "page": "STRONA 27",
+    "chapter": "Kapitel 3 – Einkaufen",
+    "lesson": "Lektion 4 – Online kaufen"
+  },
+  {
+    "id": 234,
+    "pl": "zamawiać",
+    "de": "bestellen",
+    "page": "STRONA 27",
+    "chapter": "Kapitel 3 – Einkaufen",
+    "lesson": "Lektion 4 – Online kaufen"
+  },
+  {
+    "id": 235,
+    "pl": "polecać",
+    "de": "empfehlen",
+    "page": "STRONA 27",
+    "chapter": "Kapitel 3 – Einkaufen",
+    "lesson": "Lektion 4 – Online kaufen"
+  },
+  {
+    "id": 236,
+    "pl": "odsyłać",
+    "de": "zurück|schicken",
+    "page": "STRONA 27",
+    "chapter": "Kapitel 3 – Einkaufen",
+    "lesson": "Lektion 4 – Online kaufen"
+  },
+  {
+    "id": 237,
+    "pl": "wygodny",
+    "de": "bequem",
+    "page": "STRONA 27",
+    "chapter": "Kapitel 3 – Einkaufen",
+    "lesson": "Lektion 4 – Online kaufen"
+  },
+  {
+    "id": 238,
+    "pl": "wąski",
+    "de": "eng",
+    "page": "STRONA 27",
+    "chapter": "Kapitel 3 – Einkaufen",
+    "lesson": "Lektion 4 – Online kaufen"
+  },
+  {
+    "id": 239,
+    "pl": "obniżony",
+    "de": "reduziert",
+    "page": "STRONA 27",
+    "chapter": "Kapitel 3 – Einkaufen",
+    "lesson": "Lektion 4 – Online kaufen"
+  },
+  {
+    "id": 240,
+    "pl": "stylowy",
+    "de": "stilish",
+    "page": "STRONA 27",
+    "chapter": "Kapitel 3 – Einkaufen",
+    "lesson": "Lektion 4 – Online kaufen"
+  },
+  {
+    "id": 241,
+    "pl": "rozmiar",
+    "de": "die Größe",
+    "page": "STRONA 27",
+    "chapter": "Kapitel 3 – Einkaufen",
+    "lesson": "Lektion 4 – Online kaufen"
+  },
+  {
+    "id": 242,
+    "pl": "marka",
+    "de": "die Marke",
+    "page": "STRONA 27",
+    "chapter": "Kapitel 3 – Einkaufen",
+    "lesson": "Lektion 4 – Online kaufen"
+  },
+  {
+    "id": 243,
+    "pl": "numer",
+    "de": "die Nummer",
+    "page": "STRONA 27",
+    "chapter": "Kapitel 3 – Einkaufen",
+    "lesson": "Lektion 4 – Online kaufen"
+  },
+  {
+    "id": 244,
+    "pl": "cena",
+    "de": "der Preis",
+    "page": "STRONA 27",
+    "chapter": "Kapitel 3 – Einkaufen",
+    "lesson": "Lektion 4 – Online kaufen"
+  },
+  {
+    "id": 245,
+    "pl": "pół numeru większy",
+    "de": "eine halbe Nummer größer",
+    "page": "STRONA 27",
+    "chapter": "Kapitel 3 – Einkaufen",
+    "lesson": "Lektion 4 – Online kaufen"
+  }
+]
