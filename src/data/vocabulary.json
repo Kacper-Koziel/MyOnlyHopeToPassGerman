@@ -1958,5 +1958,181 @@
     "page": "STRONA 27",
     "chapter": "Kapitel 3 – Einkaufen",
     "lesson": "Lektion 4 – Online kaufen"
+  },
+  {
+    "id": 246,
+    "pl": "jeść warzywa",
+    "de": "Gemüse essen",
+    "page": "STRONA 27",
+    "chapter": "Kapitel 4 – Essen und Trinken",
+    "lesson": "Lektion 1 – Bei Tisch"
+  },
+  {
+    "id": 247,
+    "pl": "robić piknik",
+    "de": "Picknick machen",
+    "page": "STRONA 27",
+    "chapter": "Kapitel 4 – Essen und Trinken",
+    "lesson": "Lektion 1 – Bei Tisch"
+  },
+  {
+    "id": 248,
+    "pl": "przygotowywać sałatkę",
+    "de": "einen Salat zubereiten",
+    "page": "STRONA 27",
+    "chapter": "Kapitel 4 – Essen und Trinken",
+    "lesson": "Lektion 1 – Bei Tisch"
+  },
+  {
+    "id": 249,
+    "pl": "robić pizzę",
+    "de": "eine Pizza machen",
+    "page": "STRONA 27",
+    "chapter": "Kapitel 4 – Essen und Trinken",
+    "lesson": "Lektion 1 – Bei Tisch"
+  },
+  {
+    "id": 250,
+    "pl": "kupować pomidory",
+    "de": "Tomaten kaufen",
+    "page": "STRONA 27",
+    "chapter": "Kapitel 4 – Essen und Trinken",
+    "lesson": "Lektion 1 – Bei Tisch"
+  },
+  {
+    "id": 251,
+    "pl": "przynosić ze sobą paluszki",
+    "de": "Salzstangen mitbringen",
+    "page": "STRONA 27",
+    "chapter": "Kapitel 4 – Essen und Trinken",
+    "lesson": "Lektion 1 – Bei Tisch"
+  },
+  {
+    "id": 252,
+    "pl": "organizować napoje",
+    "de": "Getränke besorgen",
+    "page": "STRONA 27",
+    "chapter": "Kapitel 4 – Essen und Trinken",
+    "lesson": "Lektion 1 – Bei Tisch"
+  },
+  {
+    "id": 253,
+    "pl": "wyłączyć telefon",
+    "de": "das Handy ausschalten/anmachen",
+    "page": "STRONA 27",
+    "chapter": "Kapitel 4 – Essen und Trinken",
+    "lesson": "Lektion 1 – Bei Tisch"
+  },
+  {
+    "id": 254,
+    "pl": "wyciszyć telefon",
+    "de": "das Handy leise machen",
+    "page": "STRONA 27",
+    "chapter": "Kapitel 4 – Essen und Trinken",
+    "lesson": "Lektion 1 – Bei Tisch"
+  },
+  {
+    "id": 255,
+    "pl": "nie kłaść telefonu na stole",
+    "de": "das Handy nicht auf den Tisch legen",
+    "page": "STRONA 27",
+    "chapter": "Kapitel 4 – Essen und Trinken",
+    "lesson": "Lektion 1 – Bei Tisch"
+  },
+  {
+    "id": 256,
+    "pl": "czekać z jedzeniem na innych",
+    "de": "mit dem Essen auf andere warten",
+    "page": "STRONA 27",
+    "chapter": "Kapitel 4 – Essen und Trinken",
+    "lesson": "Lektion 1 – Bei Tisch"
+  },
+  {
+    "id": 257,
+    "pl": "nie nakładać za dużo na talerz",
+    "de": "nicht zu viel auf den Teller laden",
+    "page": "STRONA 27",
+    "chapter": "Kapitel 4 – Essen und Trinken",
+    "lesson": "Lektion 1 – Bei Tisch"
+  },
+  {
+    "id": 258,
+    "pl": "zjeść wszystko",
+    "de": "alles aufessen",
+    "page": "STRONA 27",
+    "chapter": "Kapitel 4 – Essen und Trinken",
+    "lesson": "Lektion 1 – Bei Tisch"
+  },
+  {
+    "id": 259,
+    "pl": "nie oblizywać palców / sztućców",
+    "de": "die Finger / das Besteck nicht ablecken",
+    "page": "STRONA 27",
+    "chapter": "Kapitel 4 – Essen und Trinken",
+    "lesson": "Lektion 1 – Bei Tisch"
+  },
+  {
+    "id": 260,
+    "pl": "dać napiwek",
+    "de": "das Trinkgeld geben",
+    "page": "STRONA 27",
+    "chapter": "Kapitel 4 – Essen und Trinken",
+    "lesson": "Lektion 1 – Bei Tisch"
+  },
+  {
+    "id": 261,
+    "pl": "nie zostawiać resztek",
+    "de": "keine Reste übrig lassen",
+    "page": "STRONA 27",
+    "chapter": "Kapitel 4 – Essen und Trinken",
+    "lesson": "Lektion 1 – Bei Tisch"
+  },
+  {
+    "id": 262,
+    "pl": "obsługiwać się",
+    "de": "sich bedienen",
+    "page": "STRONA 27",
+    "chapter": "Kapitel 4 – Essen und Trinken",
+    "lesson": "Lektion 1 – Bei Tisch"
+  },
+  {
+    "id": 263,
+    "pl": "częstować się",
+    "de": "zugreifen",
+    "page": "STRONA 27",
+    "chapter": "Kapitel 4 – Essen und Trinken",
+    "lesson": "Lektion 1 – Bei Tisch"
+  },
+  {
+    "id": 264,
+    "pl": "wziąć jeszcze jeden kawałek tortu",
+    "de": "noch ein Stück Torte nehmen",
+    "page": "STRONA 27",
+    "chapter": "Kapitel 4 – Essen und Trinken",
+    "lesson": "Lektion 1 – Bei Tisch"
+  },
+  {
+    "id": 265,
+    "pl": "umyć ręce",
+    "de": "die Hände waschen",
+    "page": "STRONA 27",
+    "chapter": "Kapitel 4 – Essen und Trinken",
+    "lesson": "Lektion 1 – Bei Tisch"
+  },
+  {
+    "id": 266,
+    "pl": "zaprosić przyjaciół do restauracji",
+    "de": "Freunde ins Restaurant einladen",
+    "page": "STRONA 27",
+    "chapter": "Kapitel 4 – Essen und Trinken",
+    "lesson": "Lektion 1 – Bei Tisch"
+  },
+  {
+    "id": 267,
+    "pl": "odstawić naczynia",
+    "de": "das Geschirr abstellen",
+    "page": "STRONA 27",
+    "chapter": "Kapitel 4 – Essen und Trinken",
+    "lesson": "Lektion 1 – Bei Tisch"
   }
 ]
