@@ -14,14 +14,23 @@ function App() {
     useEffect(() => {
         const saved = localStorage.getItem('vocabulary');
         if (saved) {
-            const parsed = JSON.parse(saved);
+            let parsed = JSON.parse(saved);
+
             if (parsed.length > 0 && !parsed[0].chapter && initialVocabulary.length > 0 && initialVocabulary[0].chapter) {
                 console.log("Migrating vocabulary to new structure...");
-                setVocabulary(initialVocabulary);
-                localStorage.setItem('vocabulary', JSON.stringify(initialVocabulary));
-            } else {
-                setVocabulary(parsed);
+                parsed = initialVocabulary;
             }
+
+            const existingIds = new Set(parsed.map(w => w.id));
+            const newWords = initialVocabulary.filter(w => !existingIds.has(w.id));
+
+            if (newWords.length > 0) {
+                console.log(`Found ${newWords.length} new words. Merging...`);
+                parsed = [...parsed, ...newWords];
+            }
+
+            setVocabulary(parsed);
+            localStorage.setItem('vocabulary', JSON.stringify(parsed));
         } else {
             setVocabulary(initialVocabulary);
         }
