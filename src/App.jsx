@@ -13,27 +13,20 @@ function App() {
 
     useEffect(() => {
         const saved = localStorage.getItem('vocabulary');
+        let finalVocab = [...initialVocabulary];
+
         if (saved) {
-            let parsed = JSON.parse(saved);
-
-            if (parsed.length > 0 && !parsed[0].chapter && initialVocabulary.length > 0 && initialVocabulary[0].chapter) {
-                console.log("Migrating vocabulary to new structure...");
-                parsed = initialVocabulary;
+            const parsed = JSON.parse(saved);
+            const initialIds = new Set(initialVocabulary.map(w => w.id));
+            const customWords = parsed.filter(w => !initialIds.has(w.id));
+            
+            if (customWords.length > 0) {
+                finalVocab = [...finalVocab, ...customWords];
             }
-
-            const existingIds = new Set(parsed.map(w => w.id));
-            const newWords = initialVocabulary.filter(w => !existingIds.has(w.id));
-
-            if (newWords.length > 0) {
-                console.log(`Found ${newWords.length} new words. Merging...`);
-                parsed = [...parsed, ...newWords];
-            }
-
-            setVocabulary(parsed);
-            localStorage.setItem('vocabulary', JSON.stringify(parsed));
-        } else {
-            setVocabulary(initialVocabulary);
         }
+        
+        setVocabulary(finalVocab);
+        localStorage.setItem('vocabulary', JSON.stringify(finalVocab));
     }, []);
 
     const saveVocabulary = (newVocab) => {

@@ -68,12 +68,12 @@ function Game({ vocabulary, onBack }) {
                     value={input}
                     onChange={(e) => setInput(e.target.value)}
                     onKeyDown={(e) => {
-                        if (e.altKey) {
+                        if (e.altKey || e.getModifierState('AltGraph')) {
                             let char = '';
-                            if (e.key === 'a') char = 'ä';
-                            else if (e.key === 'o') char = 'ö';
-                            else if (e.key === 'u') char = 'ü';
-                            else if (e.key === 's') char = 'ß';
+                            if (e.code === 'KeyA') char = 'ä';
+                            else if (e.code === 'KeyO') char = 'ö';
+                            else if (e.code === 'KeyU') char = 'ü';
+                            else if (e.code === 'KeyS') char = 'ß';
                             
                             if (char) {
                                 e.preventDefault();
@@ -83,7 +83,7 @@ function Game({ vocabulary, onBack }) {
                         }
                         if (e.key === 'Enter') checkAnswer();
                     }}
-                    placeholder="Type German word... (Alt+a/o/u/s for ä/ö/ü/ß)"
+                    placeholder="Type German word... (AltGr+a/o/u/s for ä/ö/ü/ß)"
                     autoFocus
                     className={feedback === 'incorrect' ? 'shake' : ''}
                     style={{
