@@ -2134,5 +2134,469 @@
     "page": "STRONA 27",
     "chapter": "Kapitel 4 – Essen und Trinken",
     "lesson": "Lektion 1 – Bei Tisch"
+  },
+  {
+    "id": 268,
+    "pl": "bóle brzucha",
+    "de": "die Bauchschmerzen",
+    "page": "STRONA 43",
+    "chapter": "Kapitel 5 – Gesundheit",
+    "lesson": "Lektion 1 – Beschwerden und Krankheiten"
+  },
+  {
+    "id": 269,
+    "pl": "przeziębienie",
+    "de": "die Erkältung, -en",
+    "page": "STRONA 43",
+    "chapter": "Kapitel 5 – Gesundheit",
+    "lesson": "Lektion 1 – Beschwerden und Krankheiten"
+  },
+  {
+    "id": 270,
+    "pl": "gorączka",
+    "de": "das Fieber",
+    "page": "STRONA 43",
+    "chapter": "Kapitel 5 – Gesundheit",
+    "lesson": "Lektion 1 – Beschwerden und Krankheiten"
+  },
+  {
+    "id": 271,
+    "pl": "grypa",
+    "de": "die Grippe, -n",
+    "page": "STRONA 43",
+    "chapter": "Kapitel 5 – Gesundheit",
+    "lesson": "Lektion 1 – Beschwerden und Krankheiten"
+  },
+  {
+    "id": 272,
+    "pl": "kaszel",
+    "de": "der Husten",
+    "page": "STRONA 43",
+    "chapter": "Kapitel 5 – Gesundheit",
+    "lesson": "Lektion 1 – Beschwerden und Krankheiten"
+  },
+  {
+    "id": 273,
+    "pl": "bóle głowy",
+    "de": "die Kopfschmerzen",
+    "page": "STRONA 43",
+    "chapter": "Kapitel 5 – Gesundheit",
+    "lesson": "Lektion 1 – Beschwerden und Krankheiten"
+  },
+  {
+    "id": 274,
+    "pl": "katar",
+    "de": "der Schnupfen",
+    "page": "STRONA 43",
+    "chapter": "Kapitel 5 – Gesundheit",
+    "lesson": "Lektion 1 – Beschwerden und Krankheiten"
+  },
+  {
+    "id": 275,
+    "pl": "odpoczywać",
+    "de": "sich erholen",
+    "page": "STRONA 43",
+    "chapter": "Kapitel 5 – Gesundheit",
+    "lesson": "Lektion 1 – Beschwerden und Krankheiten"
+  },
+  {
+    "id": 276,
+    "pl": "przeziębić się",
+    "de": "sich erkälten",
+    "page": "STRONA 43",
+    "chapter": "Kapitel 5 – Gesundheit",
+    "lesson": "Lektion 1 – Beschwerden und Krankheiten"
+  },
+  {
+    "id": 277,
+    "pl": "czuć się",
+    "de": "sich fühlen",
+    "page": "STRONA 43",
+    "chapter": "Kapitel 5 – Gesundheit",
+    "lesson": "Lektion 1 – Beschwerden und Krankheiten"
+  },
+  {
+    "id": 278,
+    "pl": "boleć",
+    "de": "weh|tun",
+    "page": "STRONA 43",
+    "chapter": "Kapitel 5 – Gesundheit",
+    "lesson": "Lektion 1 – Beschwerden und Krankheiten"
+  },
+  {
+    "id": 279,
+    "pl": "iść do apteki",
+    "de": "in die Apotheke gehen",
+    "page": "STRONA 43",
+    "chapter": "Kapitel 5 – Gesundheit",
+    "lesson": "Lektion 1 – Beschwerden und Krankheiten"
+  },
+  {
+    "id": 280,
+    "pl": "jechać do lekarza",
+    "de": "zum Arzt fahren",
+    "page": "STRONA 43",
+    "chapter": "Kapitel 5 – Gesundheit",
+    "lesson": "Lektion 1 – Beschwerden und Krankheiten"
+  },
+  {
+    "id": 281,
+    "pl": "skręcić nogę",
+    "de": "mit dem Fuß um|knicken",
+    "page": "STRONA 43",
+    "chapter": "Kapitel 5 – Gesundheit",
+    "lesson": "Lektion 1 – Beschwerden und Krankheiten"
+  },
+  {
+    "id": 282,
+    "pl": "zażywać lekarstwa",
+    "de": "Medikamente ein|nehmen",
+    "page": "STRONA 43",
+    "chapter": "Kapitel 5 – Gesundheit",
+    "lesson": "Lektion 1 – Beschwerden und Krankheiten"
+  },
+  {
+    "id": 283,
+    "pl": "spaść z krzesła",
+    "de": "vom Stuhl fallen",
+    "page": "STRONA 43",
+    "chapter": "Kapitel 5 – Gesundheit",
+    "lesson": "Lektion 1 – Beschwerden und Krankheiten"
+  },
+  {
+    "id": 284,
+    "pl": "Przykro mi.",
+    "de": "Es tut mir leid.",
+    "page": "STRONA 43",
+    "chapter": "Kapitel 5 – Gesundheit",
+    "lesson": "Lektion 1 – Beschwerden und Krankheiten"
+  },
+  {
+    "id": 285,
+    "pl": "Szybkiego powrotu do zdrowia!",
+    "de": "Gute Besserung!",
+    "page": "STRONA 43",
+    "chapter": "Kapitel 5 – Gesundheit",
+    "lesson": "Lektion 1 – Beschwerden und Krankheiten"
+  },
+  {
+    "id": 286,
+    "pl": "Szkoda.",
+    "de": "Das ist ja schade!",
+    "page": "STRONA 43",
+    "chapter": "Kapitel 5 – Gesundheit",
+    "lesson": "Lektion 1 – Beschwerden und Krankheiten"
+  },
+  {
+    "id": 287,
+    "pl": "antybiotyk",
+    "de": "das Antibiotikum, Antibiotika",
+    "page": "STRONA 43",
+    "chapter": "Kapitel 5 – Gesundheit",
+    "lesson": "Lektion 2 – Beim Arzt"
+  },
+  {
+    "id": 288,
+    "pl": "lekarz",
+    "de": "der Arzt, -e",
+    "page": "STRONA 43",
+    "chapter": "Kapitel 5 – Gesundheit",
+    "lesson": "Lektion 2 – Beim Arzt"
+  },
+  {
+    "id": 289,
+    "pl": "zwolnienie lekarskie",
+    "de": "das Attest, -e",
+    "page": "STRONA 43",
+    "chapter": "Kapitel 5 – Gesundheit",
+    "lesson": "Lektion 2 – Beim Arzt"
+  },
+  {
+    "id": 290,
+    "pl": "diagnoza",
+    "de": "die Diagnose, -n",
+    "page": "STRONA 43",
+    "chapter": "Kapitel 5 – Gesundheit",
+    "lesson": "Lektion 2 – Beim Arzt"
+  },
+  {
+    "id": 291,
+    "pl": "usprawiedliwienie",
+    "de": "die Entschuldigung, -en",
+    "page": "STRONA 43",
+    "chapter": "Kapitel 5 – Gesundheit",
+    "lesson": "Lektion 2 – Beim Arzt"
+  },
+  {
+    "id": 292,
+    "pl": "karta zdrowia",
+    "de": "die Gesundheitskarte, -n",
+    "page": "STRONA 43",
+    "chapter": "Kapitel 5 – Gesundheit",
+    "lesson": "Lektion 2 – Beim Arzt"
+  },
+  {
+    "id": 293,
+    "pl": "zapalenie gardła",
+    "de": "die Halsentzündung, -en",
+    "page": "STRONA 43",
+    "chapter": "Kapitel 5 – Gesundheit",
+    "lesson": "Lektion 2 – Beim Arzt"
+  },
+  {
+    "id": 294,
+    "pl": "bóle gardła",
+    "de": "die Halsschmerzen",
+    "page": "STRONA 43",
+    "chapter": "Kapitel 5 – Gesundheit",
+    "lesson": "Lektion 2 – Beim Arzt"
+  },
+  {
+    "id": 295,
+    "pl": "lekarz rodzinny",
+    "de": "der Hausarzt, -e",
+    "page": "STRONA 43",
+    "chapter": "Kapitel 5 – Gesundheit",
+    "lesson": "Lektion 2 – Beim Arzt"
+  },
+  {
+    "id": 296,
+    "pl": "tu: gabinet lekarski",
+    "de": "die Praxis, Praxen",
+    "page": "STRONA 43",
+    "chapter": "Kapitel 5 – Gesundheit",
+    "lesson": "Lektion 2 – Beim Arzt"
+  },
+  {
+    "id": 297,
+    "pl": "recepta",
+    "de": "das Rezept, -e",
+    "page": "STRONA 43",
+    "chapter": "Kapitel 5 – Gesundheit",
+    "lesson": "Lektion 2 – Beim Arzt"
+  },
+  {
+    "id": 298,
+    "pl": "syrop",
+    "de": "der Sirup, -e / -s",
+    "page": "STRONA 43",
+    "chapter": "Kapitel 5 – Gesundheit",
+    "lesson": "Lektion 2 – Beim Arzt"
+  },
+  {
+    "id": 299,
+    "pl": "godziny przyjęć",
+    "de": "die Sprechstunde, -n",
+    "page": "STRONA 43",
+    "chapter": "Kapitel 5 – Gesundheit",
+    "lesson": "Lektion 2 – Beim Arzt"
+  },
+  {
+    "id": 300,
+    "pl": "tabletka",
+    "de": "die Tablette, -n",
+    "page": "STRONA 43",
+    "chapter": "Kapitel 5 – Gesundheit",
+    "lesson": "Lektion 2 – Beim Arzt"
+  },
+  {
+    "id": 301,
+    "pl": "termin",
+    "de": "der Termin, -e",
+    "page": "STRONA 43",
+    "chapter": "Kapitel 5 – Gesundheit",
+    "lesson": "Lektion 2 – Beim Arzt"
+  },
+  {
+    "id": 302,
+    "pl": "rozbierać się",
+    "de": "sich frei|machen",
+    "page": "STRONA 43",
+    "chapter": "Kapitel 5 – Gesundheit",
+    "lesson": "Lektion 2 – Beim Arzt"
+  },
+  {
+    "id": 303,
+    "pl": "badać",
+    "de": "untersuchen",
+    "page": "STRONA 43",
+    "chapter": "Kapitel 5 – Gesundheit",
+    "lesson": "Lektion 2 – Beim Arzt"
+  },
+  {
+    "id": 304,
+    "pl": "przepisywać (receptę)",
+    "de": "verschreiben",
+    "page": "STRONA 43",
+    "chapter": "Kapitel 5 – Gesundheit",
+    "lesson": "Lektion 2 – Beim Arzt"
+  },
+  {
+    "id": 305,
+    "pl": "zwolnienie lekarskie do szkoły",
+    "de": "ein Attest für die Schule",
+    "page": "STRONA 43",
+    "chapter": "Kapitel 5 – Gesundheit",
+    "lesson": "Lektion 2 – Beim Arzt"
+  },
+  {
+    "id": 306,
+    "pl": "przyjść do kontroli",
+    "de": "zur Kontrolle kommen",
+    "page": "STRONA 43",
+    "chapter": "Kapitel 5 – Gesundheit",
+    "lesson": "Lektion 2 – Beim Arzt"
+  },
+  {
+    "id": 307,
+    "pl": "przyjść na wizytę",
+    "de": "in die Sprechstunde kommen",
+    "page": "STRONA 43",
+    "chapter": "Kapitel 5 – Gesundheit",
+    "lesson": "Lektion 2 – Beim Arzt"
+  },
+  {
+    "id": 308,
+    "pl": "umówić termin",
+    "de": "einen Termin aus|machen",
+    "page": "STRONA 43",
+    "chapter": "Kapitel 5 – Gesundheit",
+    "lesson": "Lektion 2 – Beim Arzt"
+  },
+  {
+    "id": 309,
+    "pl": "tu: saszetka z lekiem",
+    "de": "der Beutel, -",
+    "page": "STRONA 43",
+    "chapter": "Kapitel 5 – Gesundheit",
+    "lesson": "Lektion 3 – Medikamente"
+  },
+  {
+    "id": 310,
+    "pl": "lekarstwo",
+    "de": "das Medikament, -e",
+    "page": "STRONA 43",
+    "chapter": "Kapitel 5 – Gesundheit",
+    "lesson": "Lektion 3 – Medikamente"
+  },
+  {
+    "id": 311,
+    "pl": "krople do nosa",
+    "de": "die Nasentropfen",
+    "page": "STRONA 43",
+    "chapter": "Kapitel 5 – Gesundheit",
+    "lesson": "Lektion 3 – Medikamente"
+  },
+  {
+    "id": 312,
+    "pl": "proszek",
+    "de": "das Pulver, -",
+    "page": "STRONA 43",
+    "chapter": "Kapitel 5 – Gesundheit",
+    "lesson": "Lektion 3 – Medikamente"
+  },
+  {
+    "id": 313,
+    "pl": "tabletka przeciwbólowa",
+    "de": "die Schmerztablette, -n",
+    "page": "STRONA 43",
+    "chapter": "Kapitel 5 – Gesundheit",
+    "lesson": "Lektion 3 – Medikamente"
+  },
+  {
+    "id": 314,
+    "pl": "kropla",
+    "de": "der Tropfen, -",
+    "page": "STRONA 43",
+    "chapter": "Kapitel 5 – Gesundheit",
+    "lesson": "Lektion 3 – Medikamente"
+  },
+  {
+    "id": 315,
+    "pl": "rozpuszczać",
+    "de": "auf|lösen",
+    "page": "STRONA 43",
+    "chapter": "Kapitel 5 – Gesundheit",
+    "lesson": "Lektion 3 – Medikamente"
+  },
+  {
+    "id": 316,
+    "pl": "dawkować",
+    "de": "dosieren",
+    "page": "STRONA 43",
+    "chapter": "Kapitel 5 – Gesundheit",
+    "lesson": "Lektion 3 – Medikamente"
+  },
+  {
+    "id": 317,
+    "pl": "ssać",
+    "de": "lutschen",
+    "page": "STRONA 43",
+    "chapter": "Kapitel 5 – Gesundheit",
+    "lesson": "Lektion 3 – Medikamente"
+  },
+  {
+    "id": 318,
+    "pl": "połykać",
+    "de": "schlucken",
+    "page": "STRONA 43",
+    "chapter": "Kapitel 5 – Gesundheit",
+    "lesson": "Lektion 3 – Medikamente"
+  },
+  {
+    "id": 319,
+    "pl": "bez recepty",
+    "de": "rezeptfrei",
+    "page": "STRONA 43",
+    "chapter": "Kapitel 5 – Gesundheit",
+    "lesson": "Lektion 3 – Medikamente"
+  },
+  {
+    "id": 320,
+    "pl": "raz",
+    "de": "einmal",
+    "page": "STRONA 43",
+    "chapter": "Kapitel 5 – Gesundheit",
+    "lesson": "Lektion 3 – Medikamente"
+  },
+  {
+    "id": 321,
+    "pl": "trzy razy dziennie",
+    "de": "dreimal täglich",
+    "page": "STRONA 43",
+    "chapter": "Kapitel 5 – Gesundheit",
+    "lesson": "Lektion 3 – Medikamente"
+  },
+  {
+    "id": 322,
+    "pl": "co cztery godziny",
+    "de": "alle vier Stunden",
+    "page": "STRONA 43",
+    "chapter": "Kapitel 5 – Gesundheit",
+    "lesson": "Lektion 3 – Medikamente"
+  },
+  {
+    "id": 323,
+    "pl": "przed jedzeniem",
+    "de": "vor dem Essen",
+    "page": "STRONA 43",
+    "chapter": "Kapitel 5 – Gesundheit",
+    "lesson": "Lektion 3 – Medikamente"
+  },
+  {
+    "id": 324,
+    "pl": "po jedzeniu",
+    "de": "nach dem Essen",
+    "page": "STRONA 43",
+    "chapter": "Kapitel 5 – Gesundheit",
+    "lesson": "Lektion 3 – Medikamente"
+  },
+  {
+    "id": 325,
+    "pl": "tabletki na grypę",
+    "de": "Tabletten gegen Grippe",
+    "page": "STRONA 43",
+    "chapter": "Kapitel 5 – Gesundheit",
+    "lesson": "Lektion 3 – Medikamente"
   }
 ]
