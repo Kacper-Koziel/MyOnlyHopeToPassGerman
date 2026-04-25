@@ -294,9 +294,9 @@ das Geschirr abstellen – odstawić naczynia
 Kapitel 5 – Gesundheit
 Lektion 1 – Beschwerden und Krankheiten
 die Bauchschmerzen – bóle brzucha
-die Erkältung, -en – przeziębienie
+die Erkältung – przeziębienie
 das Fieber – gorączka
-die Grippe, -n – grypa
+die Grippe – grypa
 der Husten – kaszel
 die Kopfschmerzen – bóle głowy
 der Schnupfen – katar
@@ -313,21 +313,21 @@ Es tut mir leid. – Przykro mi.
 Gute Besserung! – Szybkiego powrotu do zdrowia!
 Das ist ja schade! – Szkoda.
 Lektion 2 – Beim Arzt
-das Antibiotikum, Antibiotika – antybiotyk
-der Arzt, -e – lekarz
-das Attest, -e – zwolnienie lekarskie
-die Diagnose, -n – diagnoza
-die Entschuldigung, -en – usprawiedliwienie
-die Gesundheitskarte, -n – karta zdrowia
-die Halsentzündung, -en – zapalenie gardła
+das Antibiotikum – antybiotyk
+der Arzt – lekarz
+das Attest – zwolnienie lekarskie
+die Diagnose – diagnoza
+die Entschuldigung – usprawiedliwienie
+die Gesundheitskarte – karta zdrowia
+die Halsentzündung – zapalenie gardła
 die Halsschmerzen – bóle gardła
-der Hausarzt, -e – lekarz rodzinny
-die Praxis, Praxen – tu: gabinet lekarski
-das Rezept, -e – recepta
-der Sirup, -e / -s – syrop
-die Sprechstunde, -n – godziny przyjęć
-die Tablette, -n – tabletka
-der Termin, -e – termin
+der Hausarzt – lekarz rodzinny
+die Praxis – tu: gabinet lekarski
+das Rezept – recepta
+der Sirup – syrop
+die Sprechstunde – godziny przyjęć
+die Tablette – tabletka
+der Termin – termin
 sich frei|machen – rozbierać się
 untersuchen – badać
 verschreiben – przepisywać (receptę)
@@ -336,12 +336,12 @@ zur Kontrolle kommen – przyjść do kontroli
 in die Sprechstunde kommen – przyjść na wizytę
 einen Termin aus|machen – umówić termin
 Lektion 3 – Medikamente
-der Beutel, - – tu: saszetka z lekiem
-das Medikament, -e – lekarstwo
+der Beutel – tu: saszetka z lekiem
+das Medikament – lekarstwo
 die Nasentropfen – krople do nosa
-das Pulver, - – proszek
-die Schmerztablette, -n – tabletka przeciwbólowa
-der Tropfen, - – kropla
+das Pulver – proszek
+die Schmerztablette – tabletka przeciwbólowa
+der Tropfen – kropla
 auf|lösen – rozpuszczać
 dosieren – dawkować
 lutschen – ssać

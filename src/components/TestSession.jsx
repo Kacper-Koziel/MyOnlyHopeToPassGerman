@@ -202,6 +202,20 @@ function TestSession({ vocabulary, sessionLength, onBack }) {
                     value={input}
                     onChange={(e) => setInput(e.target.value)}
                     onKeyDown={(e) => {
+                        if (e.altKey) {
+                            let char = '';
+                            if (e.key === 'a') char = 'ä';
+                            else if (e.key === 'o') char = 'ö';
+                            else if (e.key === 'u') char = 'ü';
+                            else if (e.key === 's') char = 'ß';
+                            
+                            if (char) {
+                                e.preventDefault();
+                                setInput(prev => prev + char);
+                                return;
+                            }
+                        }
+
                         if (e.key === 'Enter') {
                             if (waitingForCorrection) {
                                 checkAnswer();
@@ -212,7 +226,7 @@ function TestSession({ vocabulary, sessionLength, onBack }) {
                             }
                         }
                     }}
-                    placeholder={waitingForCorrection ? "Type the correct answer to continue..." : "Type German word..."}
+                    placeholder={waitingForCorrection ? "Type the correct answer to continue..." : "Type German word... (Alt+a/o/u/s for ä/ö/ü/ß)"}
                     autoFocus
                     readOnly={!!feedback && !waitingForCorrection}
                     style={{

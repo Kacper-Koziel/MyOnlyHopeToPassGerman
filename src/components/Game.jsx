@@ -67,8 +67,23 @@ function Game({ vocabulary, onBack }) {
                     type="text"
                     value={input}
                     onChange={(e) => setInput(e.target.value)}
-                    onKeyDown={(e) => e.key === 'Enter' && checkAnswer()}
-                    placeholder="Type German word..."
+                    onKeyDown={(e) => {
+                        if (e.altKey) {
+                            let char = '';
+                            if (e.key === 'a') char = 'ä';
+                            else if (e.key === 'o') char = 'ö';
+                            else if (e.key === 'u') char = 'ü';
+                            else if (e.key === 's') char = 'ß';
+                            
+                            if (char) {
+                                e.preventDefault();
+                                setInput(prev => prev + char);
+                                return;
+                            }
+                        }
+                        if (e.key === 'Enter') checkAnswer();
+                    }}
+                    placeholder="Type German word... (Alt+a/o/u/s for ä/ö/ü/ß)"
                     autoFocus
                     className={feedback === 'incorrect' ? 'shake' : ''}
                     style={{

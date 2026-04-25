@@ -2146,7 +2146,7 @@
   {
     "id": 269,
     "pl": "przeziębienie",
-    "de": "die Erkältung, -en",
+    "de": "die Erkältung",
     "page": "STRONA 43",
     "chapter": "Kapitel 5 – Gesundheit",
     "lesson": "Lektion 1 – Beschwerden und Krankheiten"
@@ -2162,7 +2162,7 @@
   {
     "id": 271,
     "pl": "grypa",
-    "de": "die Grippe, -n",
+    "de": "die Grippe",
     "page": "STRONA 43",
     "chapter": "Kapitel 5 – Gesundheit",
     "lesson": "Lektion 1 – Beschwerden und Krankheiten"
@@ -2290,7 +2290,7 @@
   {
     "id": 287,
     "pl": "antybiotyk",
-    "de": "das Antibiotikum, Antibiotika",
+    "de": "das Antibiotikum",
     "page": "STRONA 43",
     "chapter": "Kapitel 5 – Gesundheit",
     "lesson": "Lektion 2 – Beim Arzt"
@@ -2298,7 +2298,7 @@
   {
     "id": 288,
     "pl": "lekarz",
-    "de": "der Arzt, -e",
+    "de": "der Arzt",
     "page": "STRONA 43",
     "chapter": "Kapitel 5 – Gesundheit",
     "lesson": "Lektion 2 – Beim Arzt"
@@ -2306,7 +2306,7 @@
   {
     "id": 289,
     "pl": "zwolnienie lekarskie",
-    "de": "das Attest, -e",
+    "de": "das Attest",
     "page": "STRONA 43",
     "chapter": "Kapitel 5 – Gesundheit",
     "lesson": "Lektion 2 – Beim Arzt"
@@ -2314,7 +2314,7 @@
   {
     "id": 290,
     "pl": "diagnoza",
-    "de": "die Diagnose, -n",
+    "de": "die Diagnose",
     "page": "STRONA 43",
     "chapter": "Kapitel 5 – Gesundheit",
     "lesson": "Lektion 2 – Beim Arzt"
@@ -2322,7 +2322,7 @@
   {
     "id": 291,
     "pl": "usprawiedliwienie",
-    "de": "die Entschuldigung, -en",
+    "de": "die Entschuldigung",
     "page": "STRONA 43",
     "chapter": "Kapitel 5 – Gesundheit",
     "lesson": "Lektion 2 – Beim Arzt"
@@ -2330,7 +2330,7 @@
   {
     "id": 292,
     "pl": "karta zdrowia",
-    "de": "die Gesundheitskarte, -n",
+    "de": "die Gesundheitskarte",
     "page": "STRONA 43",
     "chapter": "Kapitel 5 – Gesundheit",
     "lesson": "Lektion 2 – Beim Arzt"
@@ -2338,7 +2338,7 @@
   {
     "id": 293,
     "pl": "zapalenie gardła",
-    "de": "die Halsentzündung, -en",
+    "de": "die Halsentzündung",
     "page": "STRONA 43",
     "chapter": "Kapitel 5 – Gesundheit",
     "lesson": "Lektion 2 – Beim Arzt"
@@ -2354,7 +2354,7 @@
   {
     "id": 295,
     "pl": "lekarz rodzinny",
-    "de": "der Hausarzt, -e",
+    "de": "der Hausarzt",
     "page": "STRONA 43",
     "chapter": "Kapitel 5 – Gesundheit",
     "lesson": "Lektion 2 – Beim Arzt"
@@ -2362,7 +2362,7 @@
   {
     "id": 296,
     "pl": "tu: gabinet lekarski",
-    "de": "die Praxis, Praxen",
+    "de": "die Praxis",
     "page": "STRONA 43",
     "chapter": "Kapitel 5 – Gesundheit",
     "lesson": "Lektion 2 – Beim Arzt"
@@ -2370,7 +2370,7 @@
   {
     "id": 297,
     "pl": "recepta",
-    "de": "das Rezept, -e",
+    "de": "das Rezept",
     "page": "STRONA 43",
     "chapter": "Kapitel 5 – Gesundheit",
     "lesson": "Lektion 2 – Beim Arzt"
@@ -2378,7 +2378,7 @@
   {
     "id": 298,
     "pl": "syrop",
-    "de": "der Sirup, -e / -s",
+    "de": "der Sirup",
     "page": "STRONA 43",
     "chapter": "Kapitel 5 – Gesundheit",
     "lesson": "Lektion 2 – Beim Arzt"
@@ -2386,7 +2386,7 @@
   {
     "id": 299,
     "pl": "godziny przyjęć",
-    "de": "die Sprechstunde, -n",
+    "de": "die Sprechstunde",
     "page": "STRONA 43",
     "chapter": "Kapitel 5 – Gesundheit",
     "lesson": "Lektion 2 – Beim Arzt"
@@ -2394,7 +2394,7 @@
   {
     "id": 300,
     "pl": "tabletka",
-    "de": "die Tablette, -n",
+    "de": "die Tablette",
     "page": "STRONA 43",
     "chapter": "Kapitel 5 – Gesundheit",
     "lesson": "Lektion 2 – Beim Arzt"
@@ -2402,7 +2402,7 @@
   {
     "id": 301,
     "pl": "termin",
-    "de": "der Termin, -e",
+    "de": "der Termin",
     "page": "STRONA 43",
     "chapter": "Kapitel 5 – Gesundheit",
     "lesson": "Lektion 2 – Beim Arzt"
@@ -2466,7 +2466,7 @@
   {
     "id": 309,
     "pl": "tu: saszetka z lekiem",
-    "de": "der Beutel, -",
+    "de": "der Beutel",
     "page": "STRONA 43",
     "chapter": "Kapitel 5 – Gesundheit",
     "lesson": "Lektion 3 – Medikamente"
@@ -2474,7 +2474,7 @@
   {
     "id": 310,
     "pl": "lekarstwo",
-    "de": "das Medikament, -e",
+    "de": "das Medikament",
     "page": "STRONA 43",
     "chapter": "Kapitel 5 – Gesundheit",
     "lesson": "Lektion 3 – Medikamente"
@@ -2490,7 +2490,7 @@
   {
     "id": 312,
     "pl": "proszek",
-    "de": "das Pulver, -",
+    "de": "das Pulver",
     "page": "STRONA 43",
     "chapter": "Kapitel 5 – Gesundheit",
     "lesson": "Lektion 3 – Medikamente"
@@ -2498,7 +2498,7 @@
   {
     "id": 313,
     "pl": "tabletka przeciwbólowa",
-    "de": "die Schmerztablette, -n",
+    "de": "die Schmerztablette",
     "page": "STRONA 43",
     "chapter": "Kapitel 5 – Gesundheit",
     "lesson": "Lektion 3 – Medikamente"
@@ -2506,7 +2506,7 @@
   {
     "id": 314,
     "pl": "kropla",
-    "de": "der Tropfen, -",
+    "de": "der Tropfen",
     "page": "STRONA 43",
     "chapter": "Kapitel 5 – Gesundheit",
     "lesson": "Lektion 3 – Medikamente"
